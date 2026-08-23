@@ -6,26 +6,12 @@
     "realm_ru": "Ревущий фьорд",
     "char": "Кхня"
   },
-  {
-    "twitch": "Yo_na_bi",
-    "region": "eu",
-    "realm": "howling-fjord",
-    "realm_ru": "Ревущий фьорд",
-    "char": "Риосвинка"
-  },
     {
     "twitch": "Yo_na_bi",
     "region": "eu",
     "realm": "howling-fjord",
     "realm_ru": "Ревущий фьорд",
     "char": "Пельменева"
-  },
-  {
-    "twitch": "PeptarTV",
-    "region": "eu",
-    "realm": "howling-fjord",
-    "realm_ru": "Ревущий фьорд",
-    "char": "Пепточка"
   },
   {
     "twitch": "RinAoyama",
@@ -67,7 +53,7 @@
     "region": "eu",
     "realm": "Tarren Mill",
     "realm_ru": "Tarren Mill",
-    "char": "Nórthúr"
+    "char": "Northur"
   },
   {
     "twitch": "Murlocktyan",

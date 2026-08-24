@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T10:41:18.360155Z",
+  "updated_at": "2026-08-24T11:33:59.061147Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -27,19 +27,19 @@
           {
             "season": "season-mn-2",
             "scores": {
-              "all": 2872.5,
+              "all": 2900.7,
               "dps": 0,
               "healer": 0,
-              "tank": 2872.5,
-              "spec_0": 2872.5,
+              "tank": 2900.7,
+              "spec_0": 2900.7,
               "spec_1": 0,
               "spec_2": 0,
               "spec_3": 0
             },
             "segments": {
               "all": {
-                "score": 2872.5,
-                "color": "#c342c7"
+                "score": 2900.7,
+                "color": "#c744c2"
               },
               "dps": {
                 "score": 0,
@@ -50,12 +50,12 @@
                 "color": "#ffffff"
               },
               "tank": {
-                "score": 2872.5,
-                "color": "#c342c7"
+                "score": 2900.7,
+                "color": "#c744c2"
               },
               "spec_0": {
-                "score": 2872.5,
-                "color": "#c342c7"
+                "score": 2900.7,
+                "color": "#c744c2"
               },
               "spec_1": {
                 "score": 0,
@@ -344,6 +344,60 @@
             "role": "tank"
           },
           {
+            "dungeon": "The Blinding Vale",
+            "short_name": "BV",
+            "mythic_level": 12,
+            "completed_at": "2026-08-24T11:25:33.000Z",
+            "clear_time_ms": 1753203,
+            "keystone_run_id": 3127785,
+            "par_time_ms": 1800999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 584,
+            "zone_id": 16359,
+            "zone_expansion_id": 11,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_lightbloom.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/the-blinding-vale.jpg",
+            "score": 366,
+            "affixes": [
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 147,
+                "name": "Xal'atath's Guile",
+                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
+                "icon": "ability_racial_chillofnight",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
+                "wowhead_url": "https://wowhead.com/affix=147"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/3127785-12-the-blinding-vale",
+            "spec": {
+              "id": 250,
+              "name": "Blood",
+              "slug": "blood",
+              "class_id": 6,
+              "role": "tank",
+              "is_melee": true,
+              "patch": "3.0.0",
+              "ordinal": 0
+            },
+            "role": "tank"
+          },
+          {
             "dungeon": "Ruby Life Pools",
             "short_name": "RLP",
             "mythic_level": 11,
@@ -385,60 +439,6 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/457011-11-ruby-life-pools",
-            "spec": {
-              "id": 250,
-              "name": "Blood",
-              "slug": "blood",
-              "class_id": 6,
-              "role": "tank",
-              "is_melee": true,
-              "patch": "3.0.0",
-              "ordinal": 0
-            },
-            "role": "tank"
-          },
-          {
-            "dungeon": "The Blinding Vale",
-            "short_name": "BV",
-            "mythic_level": 11,
-            "completed_at": "2026-08-19T17:37:07.000Z",
-            "clear_time_ms": 1665135,
-            "keystone_run_id": 462059,
-            "par_time_ms": 1800999,
-            "num_keystone_upgrades": 1,
-            "map_challenge_mode_id": 584,
-            "zone_id": 16359,
-            "zone_expansion_id": 11,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_lightbloom.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/the-blinding-vale.jpg",
-            "score": 337.8,
-            "affixes": [
-              {
-                "id": 162,
-                "name": "Xal'atath's Bargain: Pulsar",
-                "description": "While in combat, Xal'atath summons pulsars that orbit players.",
-                "icon": "inv_cosmicvoid_nova",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_cosmicvoid_nova.jpg",
-                "wowhead_url": "https://wowhead.com/affix=162"
-              },
-              {
-                "id": 10,
-                "name": "Fortified",
-                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
-                "icon": "ability_toughness",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
-                "wowhead_url": "https://wowhead.com/affix=10"
-              },
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              }
-            ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/462059-11-the-blinding-vale",
             "spec": {
               "id": 250,
               "name": "Blood",
@@ -724,6 +724,60 @@
             "role": "tank"
           },
           {
+            "dungeon": "The Blinding Vale",
+            "short_name": "BV",
+            "mythic_level": 12,
+            "completed_at": "2026-08-24T11:25:33.000Z",
+            "clear_time_ms": 1753203,
+            "keystone_run_id": 3127785,
+            "par_time_ms": 1800999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 584,
+            "zone_id": 16359,
+            "zone_expansion_id": 11,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_lightbloom.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/the-blinding-vale.jpg",
+            "score": 366,
+            "affixes": [
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 147,
+                "name": "Xal'atath's Guile",
+                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
+                "icon": "ability_racial_chillofnight",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
+                "wowhead_url": "https://wowhead.com/affix=147"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/3127785-12-the-blinding-vale",
+            "spec": {
+              "id": 250,
+              "name": "Blood",
+              "slug": "blood",
+              "class_id": 6,
+              "role": "tank",
+              "is_melee": true,
+              "patch": "3.0.0",
+              "ordinal": 0
+            },
+            "role": "tank"
+          },
+          {
             "dungeon": "Murder Row",
             "short_name": "MR",
             "mythic_level": 12,
@@ -981,60 +1035,6 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/974492-11-den-of-nalorakk",
-            "spec": {
-              "id": 250,
-              "name": "Blood",
-              "slug": "blood",
-              "class_id": 6,
-              "role": "tank",
-              "is_melee": true,
-              "patch": "3.0.0",
-              "ordinal": 0
-            },
-            "role": "tank"
-          },
-          {
-            "dungeon": "Altar of Fangs",
-            "short_name": "AOF",
-            "mythic_level": 11,
-            "completed_at": "2026-08-21T10:29:45.000Z",
-            "clear_time_ms": 1804194,
-            "keystone_run_id": 1008121,
-            "par_time_ms": 1800999,
-            "num_keystone_upgrades": 0,
-            "map_challenge_mode_id": 588,
-            "zone_id": 16865,
-            "zone_expansion_id": 11,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_altaroffangs.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/altar-of-fangs.jpg",
-            "score": 304.9,
-            "affixes": [
-              {
-                "id": 162,
-                "name": "Xal'atath's Bargain: Pulsar",
-                "description": "While in combat, Xal'atath summons pulsars that orbit players.",
-                "icon": "inv_cosmicvoid_nova",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_cosmicvoid_nova.jpg",
-                "wowhead_url": "https://wowhead.com/affix=162"
-              },
-              {
-                "id": 10,
-                "name": "Fortified",
-                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
-                "icon": "ability_toughness",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
-                "wowhead_url": "https://wowhead.com/affix=10"
-              },
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              }
-            ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/1008121-11-altar-of-fangs",
             "spec": {
               "id": 250,
               "name": "Blood",
@@ -2808,7 +2808,7 @@
             "segments": {
               "all": {
                 "score": 2588.4,
-                "color": "#7658e6"
+                "color": "#715be5"
               },
               "dps": {
                 "score": 0,
@@ -2820,7 +2820,7 @@
               },
               "tank": {
                 "score": 2588.4,
-                "color": "#7658e6"
+                "color": "#715be5"
               },
               "spec_0": {
                 "score": 0,
@@ -2832,7 +2832,7 @@
               },
               "spec_2": {
                 "score": 2588.4,
-                "color": "#7658e6"
+                "color": "#715be5"
               },
               "spec_3": {
                 "score": 0,
@@ -8175,35 +8175,35 @@
           {
             "season": "season-mn-2",
             "scores": {
-              "all": 3070.7,
+              "all": 3087,
               "dps": 0,
-              "healer": 3070.7,
+              "healer": 3087,
               "tank": 0,
-              "spec_0": 3070.7,
+              "spec_0": 3087,
               "spec_1": 0,
               "spec_2": 0,
               "spec_3": 0
             },
             "segments": {
               "all": {
-                "score": 3070.7,
-                "color": "#dc539b"
+                "score": 3087,
+                "color": "#de5596"
               },
               "dps": {
                 "score": 0,
                 "color": "#ffffff"
               },
               "healer": {
-                "score": 3070.7,
-                "color": "#dc539b"
+                "score": 3087,
+                "color": "#de5596"
               },
               "tank": {
                 "score": 0,
                 "color": "#ffffff"
               },
               "spec_0": {
-                "score": 3070.7,
-                "color": "#dc539b"
+                "score": 3087,
+                "color": "#de5596"
               },
               "spec_1": {
                 "score": 0,
@@ -8221,6 +8221,60 @@
           }
         ],
         "mythic_plus_best_runs": [
+          {
+            "dungeon": "Temple of Sethraliss",
+            "short_name": "TOS",
+            "mythic_level": 14,
+            "completed_at": "2026-08-24T11:20:29.000Z",
+            "clear_time_ms": 1616408,
+            "keystone_run_id": 3126963,
+            "par_time_ms": 1920999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 250,
+            "zone_id": 9527,
+            "zone_expansion_id": 7,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_templeofsethraliss.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/temple-of-sethraliss.jpg",
+            "score": 400.9,
+            "affixes": [
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 147,
+                "name": "Xal'atath's Guile",
+                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
+                "icon": "ability_racial_chillofnight",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
+                "wowhead_url": "https://wowhead.com/affix=147"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/3126963-14-temple-of-sethraliss",
+            "spec": {
+              "id": 65,
+              "name": "Holy",
+              "slug": "holy",
+              "class_id": 2,
+              "role": "healer",
+              "is_melee": false,
+              "patch": "1.0.0",
+              "ordinal": 0
+            },
+            "role": "healer"
+          },
           {
             "dungeon": "Voidscar Arena",
             "short_name": "VSA",
@@ -8371,60 +8425,6 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/2558880-14-murder-row",
-            "spec": {
-              "id": 65,
-              "name": "Holy",
-              "slug": "holy",
-              "class_id": 2,
-              "role": "healer",
-              "is_melee": false,
-              "patch": "1.0.0",
-              "ordinal": 0
-            },
-            "role": "healer"
-          },
-          {
-            "dungeon": "Temple of Sethraliss",
-            "short_name": "TOS",
-            "mythic_level": 13,
-            "completed_at": "2026-08-23T15:23:46.000Z",
-            "clear_time_ms": 1681403,
-            "keystone_run_id": 2703779,
-            "par_time_ms": 1920999,
-            "num_keystone_upgrades": 1,
-            "map_challenge_mode_id": 250,
-            "zone_id": 9527,
-            "zone_expansion_id": 7,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_templeofsethraliss.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/temple-of-sethraliss.jpg",
-            "score": 384.7,
-            "affixes": [
-              {
-                "id": 10,
-                "name": "Fortified",
-                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
-                "icon": "ability_toughness",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
-                "wowhead_url": "https://wowhead.com/affix=10"
-              },
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              },
-              {
-                "id": 147,
-                "name": "Xal'atath's Guile",
-                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
-                "icon": "ability_racial_chillofnight",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
-                "wowhead_url": "https://wowhead.com/affix=147"
-              }
-            ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/2703779-13-temple-of-sethraliss",
             "spec": {
               "id": 65,
               "name": "Holy",
@@ -8697,6 +8697,60 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/2581778-15-ruby-life-pools",
+            "spec": {
+              "id": 65,
+              "name": "Holy",
+              "slug": "holy",
+              "class_id": 2,
+              "role": "healer",
+              "is_melee": false,
+              "patch": "1.0.0",
+              "ordinal": 0
+            },
+            "role": "healer"
+          },
+          {
+            "dungeon": "Temple of Sethraliss",
+            "short_name": "TOS",
+            "mythic_level": 14,
+            "completed_at": "2026-08-24T11:20:29.000Z",
+            "clear_time_ms": 1616408,
+            "keystone_run_id": 3126963,
+            "par_time_ms": 1920999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 250,
+            "zone_id": 9527,
+            "zone_expansion_id": 7,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_templeofsethraliss.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/temple-of-sethraliss.jpg",
+            "score": 400.9,
+            "affixes": [
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 147,
+                "name": "Xal'atath's Guile",
+                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
+                "icon": "ability_racial_chillofnight",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
+                "wowhead_url": "https://wowhead.com/affix=147"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/3126963-14-temple-of-sethraliss",
             "spec": {
               "id": 65,
               "name": "Holy",
@@ -9091,9 +9145,9 @@
             "dungeon": "Kings' Rest",
             "short_name": "KR",
             "mythic_level": 13,
-            "completed_at": "2026-08-22T12:56:20.000Z",
-            "clear_time_ms": 2358576,
-            "keystone_run_id": 1953091,
+            "completed_at": "2026-08-24T10:41:45.000Z",
+            "clear_time_ms": 2080661,
+            "keystone_run_id": 3122564,
             "par_time_ms": 1980999,
             "num_keystone_upgrades": 0,
             "map_challenge_mode_id": 249,
@@ -9101,7 +9155,7 @@
             "zone_expansion_id": 7,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_kingsrest.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/kings-rest.jpg",
-            "score": 312.9,
+            "score": 318.1,
             "affixes": [
               {
                 "id": 10,
@@ -9128,61 +9182,7 @@
                 "wowhead_url": "https://wowhead.com/affix=147"
               }
             ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/1953091-13-kings-rest",
-            "spec": {
-              "id": 65,
-              "name": "Holy",
-              "slug": "holy",
-              "class_id": 2,
-              "role": "healer",
-              "is_melee": false,
-              "patch": "1.0.0",
-              "ordinal": 0
-            },
-            "role": "healer"
-          },
-          {
-            "dungeon": "Den of Nalorakk",
-            "short_name": "DON",
-            "mythic_level": 12,
-            "completed_at": "2026-08-23T09:07:28.000Z",
-            "clear_time_ms": 1590763,
-            "keystone_run_id": 2664289,
-            "par_time_ms": 1920999,
-            "num_keystone_upgrades": 1,
-            "map_challenge_mode_id": 586,
-            "zone_id": 16368,
-            "zone_expansion_id": 11,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_proveyourworth.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/den-of-nalorakk.jpg",
-            "score": 371.4,
-            "affixes": [
-              {
-                "id": 10,
-                "name": "Fortified",
-                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
-                "icon": "ability_toughness",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
-                "wowhead_url": "https://wowhead.com/affix=10"
-              },
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              },
-              {
-                "id": 147,
-                "name": "Xal'atath's Guile",
-                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
-                "icon": "ability_racial_chillofnight",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
-                "wowhead_url": "https://wowhead.com/affix=147"
-              }
-            ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/2664289-12-den-of-nalorakk",
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/3122564-13-kings-rest",
             "spec": {
               "id": 65,
               "name": "Holy",

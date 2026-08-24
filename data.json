@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T05:19:19.624946Z",
+  "updated_at": "2026-08-24T06:04:52.996183Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -4836,11 +4836,11 @@
             "segments": {
               "all": {
                 "score": 3069.1,
-                "color": "#dd5498"
+                "color": "#dc539b"
               },
               "dps": {
                 "score": 3069.1,
-                "color": "#dd5498"
+                "color": "#dc539b"
               },
               "healer": {
                 "score": 0,
@@ -4856,7 +4856,7 @@
               },
               "spec_1": {
                 "score": 3069.1,
-                "color": "#dd5498"
+                "color": "#dc539b"
               },
               "spec_2": {
                 "score": 0,

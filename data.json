@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T17:35:31.051696Z",
+  "updated_at": "2026-08-25T18:45:50.718812Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -5265,7 +5265,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/177/195424945-avatar.jpg?alt=/wow/static/images/2d/avatar/2-1.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-08-25T12:25:41.000Z",
+        "last_crawled_at": "2026-08-25T18:42:32.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Мидсу",
         "profile_banner": "classbanner_hunter1",
         "mythic_plus_scores_by_season": [

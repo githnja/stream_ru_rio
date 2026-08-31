@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T04:50:20.444763Z",
+  "updated_at": "2026-08-31T11:28:54.180941Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -6310,11 +6310,11 @@
         "active_spec_role": "DPS",
         "gender": "female",
         "faction": "horde",
-        "achievement_points": 18830,
+        "achievement_points": 18840,
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/draenor/64/124938560-avatar.jpg?alt=/wow/static/images/2d/avatar/10-1.jpg",
         "region": "eu",
         "realm": "Draenor",
-        "last_crawled_at": "2026-08-30T04:44:38.000Z",
+        "last_crawled_at": "2026-08-31T08:50:38.000Z",
         "profile_url": "https://raider.io/characters/eu/draenor/Nevodkan",
         "profile_banner": "hordebanner2",
         "mythic_plus_scores_by_season": [
@@ -8412,42 +8412,42 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/twisting-nether/243/196738035-avatar.jpg?alt=/wow/static/images/2d/avatar/30-1.jpg",
         "region": "eu",
         "realm": "Twisting Nether",
-        "last_crawled_at": "2026-08-30T17:25:35.000Z",
+        "last_crawled_at": "2026-08-31T07:59:39.000Z",
         "profile_url": "https://raider.io/characters/eu/twisting-nether/Murlgmrlgrlg",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [
           {
             "season": "season-mn-2",
             "scores": {
-              "all": 1334,
+              "all": 1710.7,
               "dps": 0,
-              "healer": 1334,
+              "healer": 1710.7,
               "tank": 0,
-              "spec_0": 1334,
+              "spec_0": 1710.7,
               "spec_1": 0,
               "spec_2": 0,
               "spec_3": 0
             },
             "segments": {
               "all": {
-                "score": 1334,
-                "color": "#46ff2d"
+                "score": 1710.7,
+                "color": "#55db63"
               },
               "dps": {
                 "score": 0,
                 "color": "#ffffff"
               },
               "healer": {
-                "score": 1334,
-                "color": "#46ff2d"
+                "score": 1710.7,
+                "color": "#55db63"
               },
               "tank": {
                 "score": 0,
                 "color": "#ffffff"
               },
               "spec_0": {
-                "score": 1334,
-                "color": "#46ff2d"
+                "score": 1710.7,
+                "color": "#55db63"
               },
               "spec_1": {
                 "score": 0,
@@ -8468,18 +8468,18 @@
           {
             "dungeon": "Altar of Fangs",
             "short_name": "AOF",
-            "mythic_level": 10,
-            "completed_at": "2026-08-30T13:05:57.000Z",
-            "clear_time_ms": 2000722,
-            "keystone_run_id": 6022900,
+            "mythic_level": 11,
+            "completed_at": "2026-08-31T06:11:17.000Z",
+            "clear_time_ms": 1470024,
+            "keystone_run_id": 6283972,
             "par_time_ms": 1800999,
-            "num_keystone_upgrades": 0,
+            "num_keystone_upgrades": 1,
             "map_challenge_mode_id": 588,
             "zone_id": 16865,
             "zone_expansion_id": 11,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_altaroffangs.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/altar-of-fangs.jpg",
-            "score": 300.8,
+            "score": 341.9,
             "affixes": [
               {
                 "id": 158,
@@ -8506,7 +8506,61 @@
                 "wowhead_url": "https://wowhead.com/affix=10"
               }
             ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/6022900-10-altar-of-fangs",
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/6283972-11-altar-of-fangs",
+            "spec": {
+              "id": 65,
+              "name": "Holy",
+              "slug": "holy",
+              "class_id": 2,
+              "role": "healer",
+              "is_melee": false,
+              "patch": "1.0.0",
+              "ordinal": 0
+            },
+            "role": "healer"
+          },
+          {
+            "dungeon": "Murder Row",
+            "short_name": "MR",
+            "mythic_level": 11,
+            "completed_at": "2026-08-31T07:38:17.000Z",
+            "clear_time_ms": 2005269,
+            "keystone_run_id": 6283904,
+            "par_time_ms": 2040999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 587,
+            "zone_id": 16091,
+            "zone_expansion_id": 11,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_murderrow.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/murder-row.jpg",
+            "score": 335.7,
+            "affixes": [
+              {
+                "id": 158,
+                "name": "Xal'atath's Bargain: Voidbound",
+                "description": "While in combat, Xal'atath summons a Voidbound Emissary that empowers nearby enemies.",
+                "icon": "inv_cosmicvoid_buff",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_cosmicvoid_buff.jpg",
+                "wowhead_url": "https://wowhead.com/affix=158"
+              },
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/6283904-11-murder-row",
             "spec": {
               "id": 65,
               "name": "Holy",
@@ -8691,6 +8745,114 @@
           {
             "dungeon": "Altar of Fangs",
             "short_name": "AOF",
+            "mythic_level": 11,
+            "completed_at": "2026-08-31T06:11:17.000Z",
+            "clear_time_ms": 1470024,
+            "keystone_run_id": 6283972,
+            "par_time_ms": 1800999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 588,
+            "zone_id": 16865,
+            "zone_expansion_id": 11,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_altaroffangs.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/altar-of-fangs.jpg",
+            "score": 341.9,
+            "affixes": [
+              {
+                "id": 158,
+                "name": "Xal'atath's Bargain: Voidbound",
+                "description": "While in combat, Xal'atath summons a Voidbound Emissary that empowers nearby enemies.",
+                "icon": "inv_cosmicvoid_buff",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_cosmicvoid_buff.jpg",
+                "wowhead_url": "https://wowhead.com/affix=158"
+              },
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/6283972-11-altar-of-fangs",
+            "spec": {
+              "id": 65,
+              "name": "Holy",
+              "slug": "holy",
+              "class_id": 2,
+              "role": "healer",
+              "is_melee": false,
+              "patch": "1.0.0",
+              "ordinal": 0
+            },
+            "role": "healer"
+          },
+          {
+            "dungeon": "Murder Row",
+            "short_name": "MR",
+            "mythic_level": 11,
+            "completed_at": "2026-08-31T07:38:17.000Z",
+            "clear_time_ms": 2005269,
+            "keystone_run_id": 6283904,
+            "par_time_ms": 2040999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 587,
+            "zone_id": 16091,
+            "zone_expansion_id": 11,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_murderrow.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/murder-row.jpg",
+            "score": 335.7,
+            "affixes": [
+              {
+                "id": 158,
+                "name": "Xal'atath's Bargain: Voidbound",
+                "description": "While in combat, Xal'atath summons a Voidbound Emissary that empowers nearby enemies.",
+                "icon": "inv_cosmicvoid_buff",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_cosmicvoid_buff.jpg",
+                "wowhead_url": "https://wowhead.com/affix=158"
+              },
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/6283904-11-murder-row",
+            "spec": {
+              "id": 65,
+              "name": "Holy",
+              "slug": "holy",
+              "class_id": 2,
+              "role": "healer",
+              "is_melee": false,
+              "patch": "1.0.0",
+              "ordinal": 0
+            },
+            "role": "healer"
+          },
+          {
+            "dungeon": "Altar of Fangs",
+            "short_name": "AOF",
             "mythic_level": 10,
             "completed_at": "2026-08-30T13:05:57.000Z",
             "clear_time_ms": 2000722,
@@ -8730,6 +8892,52 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/6022900-10-altar-of-fangs",
+            "spec": {
+              "id": 65,
+              "name": "Holy",
+              "slug": "holy",
+              "class_id": 2,
+              "role": "healer",
+              "is_melee": false,
+              "patch": "1.0.0",
+              "ordinal": 0
+            },
+            "role": "healer"
+          },
+          {
+            "dungeon": "Murder Row",
+            "short_name": "MR",
+            "mythic_level": 9,
+            "completed_at": "2026-08-31T05:36:31.000Z",
+            "clear_time_ms": 1449750,
+            "keystone_run_id": 6283987,
+            "par_time_ms": 2040999,
+            "num_keystone_upgrades": 2,
+            "map_challenge_mode_id": 587,
+            "zone_id": 16091,
+            "zone_expansion_id": 11,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_murderrow.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/murder-row.jpg",
+            "score": 300.9,
+            "affixes": [
+              {
+                "id": 158,
+                "name": "Xal'atath's Bargain: Voidbound",
+                "description": "While in combat, Xal'atath summons a Voidbound Emissary that empowers nearby enemies.",
+                "icon": "inv_cosmicvoid_buff",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_cosmicvoid_buff.jpg",
+                "wowhead_url": "https://wowhead.com/affix=158"
+              },
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/6283987-9-murder-row",
             "spec": {
               "id": 65,
               "name": "Holy",
@@ -9017,7 +9225,7 @@
             "segments": {
               "all": {
                 "score": 1329.9,
-                "color": "#46ff2d"
+                "color": "#4eff34"
               },
               "dps": {
                 "score": 0,
@@ -9025,7 +9233,7 @@
               },
               "healer": {
                 "score": 1329.9,
-                "color": "#46ff2d"
+                "color": "#4eff34"
               },
               "tank": {
                 "score": 0,
@@ -9041,7 +9249,7 @@
               },
               "spec_2": {
                 "score": 1329.9,
-                "color": "#46ff2d"
+                "color": "#4eff34"
               },
               "spec_3": {
                 "score": 0,

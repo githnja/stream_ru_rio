@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T20:05:13.219402Z",
+  "updated_at": "2026-09-01T22:45:12.531822Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -39,7 +39,7 @@
             "segments": {
               "all": {
                 "score": 3251.9,
-                "color": "#d951a0"
+                "color": "#d74fa4"
               },
               "dps": {
                 "score": 0,
@@ -51,11 +51,11 @@
               },
               "tank": {
                 "score": 3251.9,
-                "color": "#d951a0"
+                "color": "#d74fa4"
               },
               "spec_0": {
                 "score": 3251.9,
-                "color": "#d951a0"
+                "color": "#d74fa4"
               },
               "spec_1": {
                 "score": 0,
@@ -1088,7 +1088,7 @@
             "segments": {
               "all": {
                 "score": 3308.3,
-                "color": "#df5594"
+                "color": "#dd5399"
               },
               "dps": {
                 "score": 0,
@@ -1096,7 +1096,7 @@
               },
               "healer": {
                 "score": 3308.3,
-                "color": "#df5594"
+                "color": "#dd5399"
               },
               "tank": {
                 "score": 0,
@@ -1112,7 +1112,7 @@
               },
               "spec_2": {
                 "score": 3308.3,
-                "color": "#df5594"
+                "color": "#dd5399"
               },
               "spec_3": {
                 "score": 0,
@@ -2137,7 +2137,7 @@
             "segments": {
               "all": {
                 "score": 3378.1,
-                "color": "#e65d81"
+                "color": "#e45a88"
               },
               "dps": {
                 "score": 0,
@@ -2149,11 +2149,11 @@
               },
               "tank": {
                 "score": 3378.1,
-                "color": "#e65d81"
+                "color": "#e45a88"
               },
               "spec_0": {
                 "score": 3378.1,
-                "color": "#e65d81"
+                "color": "#e45a88"
               },
               "spec_1": {
                 "score": 0,
@@ -3186,7 +3186,7 @@
             "segments": {
               "all": {
                 "score": 3047.2,
-                "color": "#bd3fd0"
+                "color": "#bc3ed1"
               },
               "dps": {
                 "score": 0,
@@ -3198,7 +3198,7 @@
               },
               "tank": {
                 "score": 3047.2,
-                "color": "#bd3fd0"
+                "color": "#bc3ed1"
               },
               "spec_0": {
                 "score": 0,
@@ -3210,7 +3210,7 @@
               },
               "spec_2": {
                 "score": 3047.2,
-                "color": "#bd3fd0"
+                "color": "#bc3ed1"
               },
               "spec_3": {
                 "score": 0,
@@ -4235,11 +4235,11 @@
             "segments": {
               "all": {
                 "score": 3629.2,
-                "color": "#fa7738"
+                "color": "#f77345"
               },
               "dps": {
                 "score": 3629.2,
-                "color": "#fa7738"
+                "color": "#f77345"
               },
               "healer": {
                 "score": 0,
@@ -4259,7 +4259,7 @@
               },
               "spec_2": {
                 "score": 3629.2,
-                "color": "#fa7738"
+                "color": "#f77345"
               },
               "spec_3": {
                 "score": 0,
@@ -5284,11 +5284,11 @@
             "segments": {
               "all": {
                 "score": 3339.7,
-                "color": "#e45a88"
+                "color": "#e1588d"
               },
               "dps": {
                 "score": 3339.7,
-                "color": "#e45a88"
+                "color": "#e1588d"
               },
               "healer": {
                 "score": 0,
@@ -5304,7 +5304,7 @@
               },
               "spec_1": {
                 "score": 3339.7,
-                "color": "#e45a88"
+                "color": "#e1588d"
               },
               "spec_2": {
                 "score": 0,
@@ -6333,11 +6333,11 @@
             "segments": {
               "all": {
                 "score": 3108,
-                "color": "#c543c4"
+                "color": "#c442c6"
               },
               "dps": {
                 "score": 3108,
-                "color": "#c543c4"
+                "color": "#c442c6"
               },
               "healer": {
                 "score": 0,
@@ -6349,7 +6349,7 @@
               },
               "spec_0": {
                 "score": 3108,
-                "color": "#c543c4"
+                "color": "#c442c6"
               },
               "spec_1": {
                 "score": 0,
@@ -7382,7 +7382,7 @@
             "segments": {
               "all": {
                 "score": 3380,
-                "color": "#e85f7b"
+                "color": "#e65c82"
               },
               "dps": {
                 "score": 0,
@@ -7394,11 +7394,11 @@
               },
               "tank": {
                 "score": 3380,
-                "color": "#e85f7b"
+                "color": "#e65c82"
               },
               "spec_0": {
                 "score": 3380,
-                "color": "#e85f7b"
+                "color": "#e65c82"
               },
               "spec_1": {
                 "score": 0,
@@ -9991,7 +9991,7 @@
             "segments": {
               "all": {
                 "score": 3383.9,
-                "color": "#e85f7b"
+                "color": "#e65c82"
               },
               "dps": {
                 "score": 0,
@@ -9999,7 +9999,7 @@
               },
               "healer": {
                 "score": 3383.9,
-                "color": "#e85f7b"
+                "color": "#e65c82"
               },
               "tank": {
                 "score": 0,
@@ -10007,7 +10007,7 @@
               },
               "spec_0": {
                 "score": 3383.9,
-                "color": "#e85f7b"
+                "color": "#e65c82"
               },
               "spec_1": {
                 "score": 0,

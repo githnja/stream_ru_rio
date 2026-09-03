@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T09:06:05.237065Z",
+  "updated_at": "2026-09-03T13:47:15.610770Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -16,11 +16,11 @@
         "active_spec_role": "TANK",
         "gender": "male",
         "faction": "horde",
-        "achievement_points": 26430,
+        "achievement_points": 26440,
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/227/165735395-avatar.jpg?alt=/wow/static/images/2d/avatar/31-0.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-09-02T18:17:39.000Z",
+        "last_crawled_at": "2026-09-03T13:02:49.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Кхня",
         "profile_banner": "hordebanner6",
         "mythic_plus_scores_by_season": [
@@ -39,7 +39,7 @@
             "segments": {
               "all": {
                 "score": 3251.9,
-                "color": "#d54ea8"
+                "color": "#d34cac"
               },
               "dps": {
                 "score": 0,
@@ -51,11 +51,11 @@
               },
               "tank": {
                 "score": 3251.9,
-                "color": "#d54ea8"
+                "color": "#d34cac"
               },
               "spec_0": {
                 "score": 3251.9,
-                "color": "#d54ea8"
+                "color": "#d34cac"
               },
               "spec_1": {
                 "score": 0,
@@ -1088,7 +1088,7 @@
             "segments": {
               "all": {
                 "score": 3324.2,
-                "color": "#de5496"
+                "color": "#dc539a"
               },
               "dps": {
                 "score": 0,
@@ -1096,7 +1096,7 @@
               },
               "healer": {
                 "score": 3324.2,
-                "color": "#de5496"
+                "color": "#dc539a"
               },
               "tank": {
                 "score": 0,
@@ -1112,7 +1112,7 @@
               },
               "spec_2": {
                 "score": 3324.2,
-                "color": "#de5496"
+                "color": "#dc539a"
               },
               "spec_3": {
                 "score": 0,
@@ -2137,7 +2137,7 @@
             "segments": {
               "all": {
                 "score": 3382.9,
-                "color": "#e55b85"
+                "color": "#e45a88"
               },
               "dps": {
                 "score": 0,
@@ -2149,11 +2149,11 @@
               },
               "tank": {
                 "score": 3382.9,
-                "color": "#e55b85"
+                "color": "#e45a88"
               },
               "spec_0": {
                 "score": 3382.9,
-                "color": "#e55b85"
+                "color": "#e45a88"
               },
               "spec_1": {
                 "score": 0,
@@ -3186,7 +3186,7 @@
             "segments": {
               "all": {
                 "score": 3135.4,
-                "color": "#c443c5"
+                "color": "#c141ca"
               },
               "dps": {
                 "score": 0,
@@ -3198,7 +3198,7 @@
               },
               "tank": {
                 "score": 3135.4,
-                "color": "#c443c5"
+                "color": "#c141ca"
               },
               "spec_0": {
                 "score": 0,
@@ -3210,7 +3210,7 @@
               },
               "spec_2": {
                 "score": 3135.4,
-                "color": "#c443c5"
+                "color": "#c141ca"
               },
               "spec_3": {
                 "score": 0,
@@ -4235,11 +4235,11 @@
             "segments": {
               "all": {
                 "score": 3641.1,
-                "color": "#f77246"
+                "color": "#f77247"
               },
               "dps": {
                 "score": 3641.1,
-                "color": "#f77246"
+                "color": "#f77247"
               },
               "healer": {
                 "score": 0,
@@ -4259,7 +4259,7 @@
               },
               "spec_2": {
                 "score": 3641.1,
-                "color": "#f77246"
+                "color": "#f77247"
               },
               "spec_3": {
                 "score": 0,
@@ -4703,6 +4703,60 @@
           }
         ],
         "mythic_plus_highest_level_runs": [
+          {
+            "dungeon": "Temple of Sethraliss",
+            "short_name": "TOS",
+            "mythic_level": 19,
+            "completed_at": "2026-09-03T09:24:27.000Z",
+            "clear_time_ms": 1923892,
+            "keystone_run_id": 7454611,
+            "par_time_ms": 1920999,
+            "num_keystone_upgrades": 0,
+            "map_challenge_mode_id": 250,
+            "zone_id": 9527,
+            "zone_expansion_id": 7,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_templeofsethraliss.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/temple-of-sethraliss.jpg",
+            "score": 319.9,
+            "affixes": [
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 147,
+                "name": "Xal'atath's Guile",
+                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
+                "icon": "ability_racial_chillofnight",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
+                "wowhead_url": "https://wowhead.com/affix=147"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/7454611-19-temple-of-sethraliss",
+            "spec": {
+              "id": 269,
+              "name": "Windwalker",
+              "slug": "windwalker",
+              "class_id": 10,
+              "role": "dps",
+              "is_melee": true,
+              "patch": "5.0.0",
+              "ordinal": 2
+            },
+            "role": "dps"
+          },
           {
             "dungeon": "Ruby Life Pools",
             "short_name": "RLP",
@@ -5188,60 +5242,6 @@
               "ordinal": 2
             },
             "role": "dps"
-          },
-          {
-            "dungeon": "Murder Row",
-            "short_name": "MR",
-            "mythic_level": 18,
-            "completed_at": "2026-08-30T16:53:14.000Z",
-            "clear_time_ms": 1980387,
-            "keystone_run_id": 6000202,
-            "par_time_ms": 2040999,
-            "num_keystone_upgrades": 1,
-            "map_challenge_mode_id": 587,
-            "zone_id": 16091,
-            "zone_expansion_id": 11,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_murderrow.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/murder-row.jpg",
-            "score": 456.1,
-            "affixes": [
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              },
-              {
-                "id": 10,
-                "name": "Fortified",
-                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
-                "icon": "ability_toughness",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
-                "wowhead_url": "https://wowhead.com/affix=10"
-              },
-              {
-                "id": 147,
-                "name": "Xal'atath's Guile",
-                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
-                "icon": "ability_racial_chillofnight",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
-                "wowhead_url": "https://wowhead.com/affix=147"
-              }
-            ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/6000202-18-murder-row",
-            "spec": {
-              "id": 269,
-              "name": "Windwalker",
-              "slug": "windwalker",
-              "class_id": 10,
-              "role": "dps",
-              "is_melee": true,
-              "patch": "5.0.0",
-              "ordinal": 2
-            },
-            "role": "dps"
           }
         ]
       }
@@ -5284,11 +5284,11 @@
             "segments": {
               "all": {
                 "score": 3371.4,
-                "color": "#e3598b"
+                "color": "#e1588e"
               },
               "dps": {
                 "score": 3371.4,
-                "color": "#e3598b"
+                "color": "#e1588e"
               },
               "healer": {
                 "score": 0,
@@ -5304,7 +5304,7 @@
               },
               "spec_1": {
                 "score": 3371.4,
-                "color": "#e3598b"
+                "color": "#e1588e"
               },
               "spec_2": {
                 "score": 0,
@@ -6333,11 +6333,11 @@
             "segments": {
               "all": {
                 "score": 3123,
-                "color": "#c443c5"
+                "color": "#c141ca"
               },
               "dps": {
                 "score": 3123,
-                "color": "#c443c5"
+                "color": "#c141ca"
               },
               "healer": {
                 "score": 0,
@@ -6349,7 +6349,7 @@
               },
               "spec_0": {
                 "score": 3123,
-                "color": "#c443c5"
+                "color": "#c141ca"
               },
               "spec_1": {
                 "score": 0,
@@ -7382,7 +7382,7 @@
             "segments": {
               "all": {
                 "score": 3436.4,
-                "color": "#e96079"
+                "color": "#e85f7b"
               },
               "dps": {
                 "score": 0,
@@ -7394,11 +7394,11 @@
               },
               "tank": {
                 "score": 3436.4,
-                "color": "#e96079"
+                "color": "#e85f7b"
               },
               "spec_0": {
                 "score": 3436.4,
-                "color": "#e96079"
+                "color": "#e85f7b"
               },
               "spec_1": {
                 "score": 0,
@@ -8431,7 +8431,7 @@
             "segments": {
               "all": {
                 "score": 2797.7,
-                "color": "#6c5de5"
+                "color": "#675fe4"
               },
               "dps": {
                 "score": 0,
@@ -8439,7 +8439,7 @@
               },
               "healer": {
                 "score": 2797.7,
-                "color": "#6c5de5"
+                "color": "#675fe4"
               },
               "tank": {
                 "score": 0,
@@ -8447,7 +8447,7 @@
               },
               "spec_0": {
                 "score": 2797.7,
-                "color": "#6c5de5"
+                "color": "#675fe4"
               },
               "spec_1": {
                 "score": 0,
@@ -9991,7 +9991,7 @@
             "segments": {
               "all": {
                 "score": 3383.9,
-                "color": "#e55b85"
+                "color": "#e45a88"
               },
               "dps": {
                 "score": 0,
@@ -9999,7 +9999,7 @@
               },
               "healer": {
                 "score": 3383.9,
-                "color": "#e55b85"
+                "color": "#e45a88"
               },
               "tank": {
                 "score": 0,
@@ -10007,7 +10007,7 @@
               },
               "spec_0": {
                 "score": 3383.9,
-                "color": "#e55b85"
+                "color": "#e45a88"
               },
               "spec_1": {
                 "score": 0,
@@ -10892,6 +10892,60 @@
             "role": "healer"
           },
           {
+            "dungeon": "Den of Nalorakk",
+            "short_name": "DON",
+            "mythic_level": 16,
+            "completed_at": "2026-09-03T13:37:45.000Z",
+            "clear_time_ms": 1892013,
+            "keystone_run_id": 7518777,
+            "par_time_ms": 1920999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 586,
+            "zone_id": 16368,
+            "zone_expansion_id": 11,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_proveyourworth.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/den-of-nalorakk.jpg",
+            "score": 425.6,
+            "affixes": [
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 147,
+                "name": "Xal'atath's Guile",
+                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
+                "icon": "ability_racial_chillofnight",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
+                "wowhead_url": "https://wowhead.com/affix=147"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/7518777-16-den-of-nalorakk",
+            "spec": {
+              "id": 65,
+              "name": "Holy",
+              "slug": "holy",
+              "class_id": 2,
+              "role": "healer",
+              "is_melee": false,
+              "patch": "1.0.0",
+              "ordinal": 0
+            },
+            "role": "healer"
+          },
+          {
             "dungeon": "Ruby Life Pools",
             "short_name": "RLP",
             "mythic_level": 15,
@@ -10933,60 +10987,6 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/6361208-15-ruby-life-pools",
-            "spec": {
-              "id": 65,
-              "name": "Holy",
-              "slug": "holy",
-              "class_id": 2,
-              "role": "healer",
-              "is_melee": false,
-              "patch": "1.0.0",
-              "ordinal": 0
-            },
-            "role": "healer"
-          },
-          {
-            "dungeon": "Voidscar Arena",
-            "short_name": "VSA",
-            "mythic_level": 15,
-            "completed_at": "2026-08-28T14:04:55.000Z",
-            "clear_time_ms": 1410532,
-            "keystone_run_id": 4861406,
-            "par_time_ms": 1800999,
-            "num_keystone_upgrades": 2,
-            "map_challenge_mode_id": 585,
-            "zone_id": 16425,
-            "zone_expansion_id": 11,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_voidscararena.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/voidscar-arena.jpg",
-            "score": 418.1,
-            "affixes": [
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              },
-              {
-                "id": 10,
-                "name": "Fortified",
-                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
-                "icon": "ability_toughness",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
-                "wowhead_url": "https://wowhead.com/affix=10"
-              },
-              {
-                "id": 147,
-                "name": "Xal'atath's Guile",
-                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
-                "icon": "ability_racial_chillofnight",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
-                "wowhead_url": "https://wowhead.com/affix=147"
-              }
-            ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/4861406-15-voidscar-arena",
             "spec": {
               "id": 65,
               "name": "Holy",

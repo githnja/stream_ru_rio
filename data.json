@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T01:12:45.042936Z",
+  "updated_at": "2026-09-04T06:24:27.228680Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -1076,18 +1076,18 @@
           {
             "season": "season-mn-2",
             "scores": {
-              "all": 3404.9,
+              "all": 3404.8,
               "dps": 0,
-              "healer": 3404.9,
+              "healer": 3404.8,
               "tank": 0,
               "spec_0": 0,
               "spec_1": 0,
-              "spec_2": 3404.9,
+              "spec_2": 3404.8,
               "spec_3": 0
             },
             "segments": {
               "all": {
-                "score": 3404.9,
+                "score": 3404.8,
                 "color": "#e3598b"
               },
               "dps": {
@@ -1095,7 +1095,7 @@
                 "color": "#ffffff"
               },
               "healer": {
-                "score": 3404.9,
+                "score": 3404.8,
                 "color": "#e3598b"
               },
               "tank": {
@@ -1111,7 +1111,7 @@
                 "color": "#ffffff"
               },
               "spec_2": {
-                "score": 3404.9,
+                "score": 3404.8,
                 "color": "#e3598b"
               },
               "spec_3": {
@@ -2125,18 +2125,18 @@
           {
             "season": "season-mn-2",
             "scores": {
-              "all": 3399.2,
+              "all": 3399,
               "dps": 0,
               "healer": 0,
-              "tank": 3399.2,
-              "spec_0": 3399.2,
+              "tank": 3399,
+              "spec_0": 3399,
               "spec_1": 0,
               "spec_2": 0,
               "spec_3": 0
             },
             "segments": {
               "all": {
-                "score": 3399.2,
+                "score": 3399,
                 "color": "#e3598b"
               },
               "dps": {
@@ -2148,11 +2148,11 @@
                 "color": "#ffffff"
               },
               "tank": {
-                "score": 3399.2,
+                "score": 3399,
                 "color": "#e3598b"
               },
               "spec_0": {
-                "score": 3399.2,
+                "score": 3399,
                 "color": "#e3598b"
               },
               "spec_1": {
@@ -2239,7 +2239,7 @@
             "zone_expansion_id": 7,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_kingsrest.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/kings-rest.jpg",
-            "score": 427,
+            "score": 426.9,
             "affixes": [
               {
                 "id": 9,
@@ -2347,7 +2347,7 @@
             "zone_expansion_id": 9,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_lifepools.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion9/base/ruby-life-pools.jpg",
-            "score": 425.7,
+            "score": 425.6,
             "affixes": [
               {
                 "id": 9,
@@ -2619,7 +2619,7 @@
             "zone_expansion_id": 9,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_lifepools.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion9/base/ruby-life-pools.jpg",
-            "score": 425.7,
+            "score": 425.6,
             "affixes": [
               {
                 "id": 9,
@@ -2781,7 +2781,7 @@
             "zone_expansion_id": 7,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_kingsrest.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/kings-rest.jpg",
-            "score": 427,
+            "score": 426.9,
             "affixes": [
               {
                 "id": 9,
@@ -2889,7 +2889,7 @@
             "zone_expansion_id": 11,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_altaroffangs.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/altar-of-fangs.jpg",
-            "score": 317.8,
+            "score": 317.7,
             "affixes": [
               {
                 "id": 9,
@@ -4223,22 +4223,22 @@
           {
             "season": "season-mn-2",
             "scores": {
-              "all": 3660.9,
-              "dps": 3660.9,
+              "all": 3660.7,
+              "dps": 3660.7,
               "healer": 0,
               "tank": 0,
               "spec_0": 0,
               "spec_1": 0,
-              "spec_2": 3660.9,
+              "spec_2": 3660.7,
               "spec_3": 0
             },
             "segments": {
               "all": {
-                "score": 3660.9,
+                "score": 3660.7,
                 "color": "#f77246"
               },
               "dps": {
-                "score": 3660.9,
+                "score": 3660.7,
                 "color": "#f77246"
               },
               "healer": {
@@ -4258,7 +4258,7 @@
                 "color": "#ffffff"
               },
               "spec_2": {
-                "score": 3660.9,
+                "score": 3660.7,
                 "color": "#f77246"
               },
               "spec_3": {
@@ -4445,7 +4445,7 @@
             "zone_expansion_id": 7,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_templeofsethraliss.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/temple-of-sethraliss.jpg",
-            "score": 457.4,
+            "score": 457.3,
             "affixes": [
               {
                 "id": 9,
@@ -4553,7 +4553,7 @@
             "zone_expansion_id": 7,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_kingsrest.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/kings-rest.jpg",
-            "score": 456.1,
+            "score": 456,
             "affixes": [
               {
                 "id": 9,
@@ -4607,7 +4607,7 @@
             "zone_expansion_id": 9,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_lifepools.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion9/base/ruby-life-pools.jpg",
-            "score": 455.4,
+            "score": 455.3,
             "affixes": [
               {
                 "id": 10,
@@ -4825,7 +4825,7 @@
             "zone_expansion_id": 7,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_kingsrest.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/kings-rest.jpg",
-            "score": 314.9,
+            "score": 314.8,
             "affixes": [
               {
                 "id": 10,
@@ -4879,7 +4879,7 @@
             "zone_expansion_id": 9,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_lifepools.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion9/base/ruby-life-pools.jpg",
-            "score": 455.4,
+            "score": 455.3,
             "affixes": [
               {
                 "id": 10,
@@ -5095,7 +5095,7 @@
             "zone_expansion_id": 7,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_templeofsethraliss.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/temple-of-sethraliss.jpg",
-            "score": 457.4,
+            "score": 457.3,
             "affixes": [
               {
                 "id": 9,
@@ -6321,22 +6321,22 @@
           {
             "season": "season-mn-2",
             "scores": {
-              "all": 3123,
-              "dps": 3123,
+              "all": 3122.8,
+              "dps": 3122.8,
               "healer": 0,
               "tank": 0,
-              "spec_0": 3123,
+              "spec_0": 3122.8,
               "spec_1": 0,
               "spec_2": 0,
               "spec_3": 0
             },
             "segments": {
               "all": {
-                "score": 3123,
+                "score": 3122.8,
                 "color": "#c141cb"
               },
               "dps": {
-                "score": 3123,
+                "score": 3122.8,
                 "color": "#c141cb"
               },
               "healer": {
@@ -6348,7 +6348,7 @@
                 "color": "#ffffff"
               },
               "spec_0": {
-                "score": 3123,
+                "score": 3122.8,
                 "color": "#c141cb"
               },
               "spec_1": {
@@ -6489,7 +6489,7 @@
             "zone_expansion_id": 11,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_lightbloom.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/the-blinding-vale.jpg",
-            "score": 399.6,
+            "score": 399.5,
             "affixes": [
               {
                 "id": 9,
@@ -6869,7 +6869,7 @@
             "zone_expansion_id": 11,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_murderrow.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/murder-row.jpg",
-            "score": 310.9,
+            "score": 310.8,
             "affixes": [
               {
                 "id": 9,
@@ -6977,7 +6977,7 @@
             "zone_expansion_id": 11,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_lightbloom.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/the-blinding-vale.jpg",
-            "score": 399.6,
+            "score": 399.5,
             "affixes": [
               {
                 "id": 9,
@@ -8419,18 +8419,18 @@
           {
             "season": "season-mn-2",
             "scores": {
-              "all": 2797.7,
+              "all": 2797.5,
               "dps": 0,
-              "healer": 2797.7,
+              "healer": 2797.5,
               "tank": 0,
-              "spec_0": 2797.7,
+              "spec_0": 2797.5,
               "spec_1": 0,
               "spec_2": 0,
               "spec_3": 0
             },
             "segments": {
               "all": {
-                "score": 2797.7,
+                "score": 2797.5,
                 "color": "#6062e3"
               },
               "dps": {
@@ -8438,7 +8438,7 @@
                 "color": "#ffffff"
               },
               "healer": {
-                "score": 2797.7,
+                "score": 2797.5,
                 "color": "#6062e3"
               },
               "tank": {
@@ -8446,7 +8446,7 @@
                 "color": "#ffffff"
               },
               "spec_0": {
-                "score": 2797.7,
+                "score": 2797.5,
                 "color": "#6062e3"
               },
               "spec_1": {
@@ -9013,7 +9013,7 @@
             "zone_expansion_id": 11,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_voidscararena.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/voidscar-arena.jpg",
-            "score": 369.4,
+            "score": 369.3,
             "affixes": [
               {
                 "id": 9,
@@ -9337,7 +9337,7 @@
             "zone_expansion_id": 7,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_templeofsethraliss.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/temple-of-sethraliss.jpg",
-            "score": 340.6,
+            "score": 340.5,
             "affixes": [
               {
                 "id": 158,
@@ -11028,18 +11028,18 @@
           {
             "season": "season-mn-2",
             "scores": {
-              "all": 1214.7,
+              "all": 1214.6,
               "dps": 0,
               "healer": 0,
-              "tank": 1214.7,
+              "tank": 1214.6,
               "spec_0": 0,
-              "spec_1": 1214.7,
+              "spec_1": 1214.6,
               "spec_2": 0,
               "spec_3": 0
             },
             "segments": {
               "all": {
-                "score": 1214.7,
+                "score": 1214.6,
                 "color": "#7fff63"
               },
               "dps": {
@@ -11051,7 +11051,7 @@
                 "color": "#ffffff"
               },
               "tank": {
-                "score": 1214.7,
+                "score": 1214.6,
                 "color": "#7fff63"
               },
               "spec_0": {
@@ -11059,7 +11059,7 @@
                 "color": "#ffffff"
               },
               "spec_1": {
-                "score": 1214.7,
+                "score": 1214.6,
                 "color": "#7fff63"
               },
               "spec_2": {

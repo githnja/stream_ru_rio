@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T23:07:27.740289Z",
+  "updated_at": "2026-09-04T01:12:45.042936Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -27,18 +27,18 @@
           {
             "season": "season-mn-2",
             "scores": {
-              "all": 3251.9,
+              "all": 3251.7,
               "dps": 0,
               "healer": 0,
-              "tank": 3251.9,
-              "spec_0": 3251.9,
+              "tank": 3251.7,
+              "spec_0": 3251.7,
               "spec_1": 0,
               "spec_2": 0,
               "spec_3": 0
             },
             "segments": {
               "all": {
-                "score": 3251.9,
+                "score": 3251.7,
                 "color": "#d24cad"
               },
               "dps": {
@@ -50,11 +50,11 @@
                 "color": "#ffffff"
               },
               "tank": {
-                "score": 3251.9,
+                "score": 3251.7,
                 "color": "#d24cad"
               },
               "spec_0": {
-                "score": 3251.9,
+                "score": 3251.7,
                 "color": "#d24cad"
               },
               "spec_1": {
@@ -87,7 +87,7 @@
             "zone_expansion_id": 7,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_templeofsethraliss.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/temple-of-sethraliss.jpg",
-            "score": 418.4,
+            "score": 418.3,
             "affixes": [
               {
                 "id": 9,
@@ -411,7 +411,7 @@
             "zone_expansion_id": 11,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_lightbloom.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/the-blinding-vale.jpg",
-            "score": 398.9,
+            "score": 398.8,
             "affixes": [
               {
                 "id": 9,
@@ -521,7 +521,7 @@
             "zone_expansion_id": 7,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_templeofsethraliss.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/temple-of-sethraliss.jpg",
-            "score": 418.4,
+            "score": 418.3,
             "affixes": [
               {
                 "id": 9,
@@ -899,7 +899,7 @@
             "zone_expansion_id": 11,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_lightbloom.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/the-blinding-vale.jpg",
-            "score": 398.9,
+            "score": 398.8,
             "affixes": [
               {
                 "id": 9,
@@ -2118,7 +2118,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/silvermoon/121/226024057-avatar.jpg?alt=/wow/static/images/2d/avatar/6-1.jpg",
         "region": "eu",
         "realm": "Silvermoon",
-        "last_crawled_at": "2026-09-02T17:33:26.000Z",
+        "last_crawled_at": "2026-09-03T23:41:14.000Z",
         "profile_url": "https://raider.io/characters/eu/silvermoon/Shotta",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [
@@ -3174,18 +3174,18 @@
           {
             "season": "season-mn-2",
             "scores": {
-              "all": 3135.4,
+              "all": 3135.2,
               "dps": 0,
               "healer": 0,
-              "tank": 3135.4,
+              "tank": 3135.2,
               "spec_0": 0,
               "spec_1": 0,
-              "spec_2": 3135.4,
+              "spec_2": 3135.2,
               "spec_3": 0
             },
             "segments": {
               "all": {
-                "score": 3135.4,
+                "score": 3135.2,
                 "color": "#c141cb"
               },
               "dps": {
@@ -3197,7 +3197,7 @@
                 "color": "#ffffff"
               },
               "tank": {
-                "score": 3135.4,
+                "score": 3135.2,
                 "color": "#c141cb"
               },
               "spec_0": {
@@ -3209,7 +3209,7 @@
                 "color": "#ffffff"
               },
               "spec_2": {
-                "score": 3135.4,
+                "score": 3135.2,
                 "color": "#c141cb"
               },
               "spec_3": {
@@ -3992,7 +3992,7 @@
             "zone_expansion_id": 7,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_templeofsethraliss.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/temple-of-sethraliss.jpg",
-            "score": 383.2,
+            "score": 383.1,
             "affixes": [
               {
                 "id": 9,
@@ -4046,7 +4046,7 @@
             "zone_expansion_id": 9,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_lifepools.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion9/base/ruby-life-pools.jpg",
-            "score": 315.6,
+            "score": 315.5,
             "affixes": [
               {
                 "id": 10,
@@ -4100,7 +4100,7 @@
             "zone_expansion_id": 11,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_voidscararena.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/voidscar-arena.jpg",
-            "score": 315.5,
+            "score": 315.4,
             "affixes": [
               {
                 "id": 10,
@@ -5272,22 +5272,22 @@
           {
             "season": "season-mn-2",
             "scores": {
-              "all": 3371.4,
-              "dps": 3371.4,
+              "all": 3371.2,
+              "dps": 3371.2,
               "healer": 0,
               "tank": 0,
               "spec_0": 0,
-              "spec_1": 3371.4,
+              "spec_1": 3371.2,
               "spec_2": 0,
               "spec_3": 0
             },
             "segments": {
               "all": {
-                "score": 3371.4,
+                "score": 3371.2,
                 "color": "#e05790"
               },
               "dps": {
-                "score": 3371.4,
+                "score": 3371.2,
                 "color": "#e05790"
               },
               "healer": {
@@ -5303,7 +5303,7 @@
                 "color": "#ffffff"
               },
               "spec_1": {
-                "score": 3371.4,
+                "score": 3371.2,
                 "color": "#e05790"
               },
               "spec_2": {
@@ -5332,7 +5332,7 @@
             "zone_expansion_id": 11,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_murderrow.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/murder-row.jpg",
-            "score": 430.7,
+            "score": 430.6,
             "affixes": [
               {
                 "id": 9,
@@ -5928,7 +5928,7 @@
             "zone_expansion_id": 11,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_murderrow.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/murder-row.jpg",
-            "score": 430.7,
+            "score": 430.6,
             "affixes": [
               {
                 "id": 9,
@@ -7370,18 +7370,18 @@
           {
             "season": "season-mn-2",
             "scores": {
-              "all": 3449.4,
+              "all": 3449.2,
               "dps": 0,
               "healer": 0,
-              "tank": 3449.4,
-              "spec_0": 3449.4,
+              "tank": 3449.2,
+              "spec_0": 3449.2,
               "spec_1": 0,
               "spec_2": 0,
               "spec_3": 0
             },
             "segments": {
               "all": {
-                "score": 3449.4,
+                "score": 3449.2,
                 "color": "#e75e7f"
               },
               "dps": {
@@ -7393,11 +7393,11 @@
                 "color": "#ffffff"
               },
               "tank": {
-                "score": 3449.4,
+                "score": 3449.2,
                 "color": "#e75e7f"
               },
               "spec_0": {
-                "score": 3449.4,
+                "score": 3449.2,
                 "color": "#e75e7f"
               },
               "spec_1": {
@@ -7700,7 +7700,7 @@
             "zone_expansion_id": 11,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_lightbloom.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/the-blinding-vale.jpg",
-            "score": 427.9,
+            "score": 427.8,
             "affixes": [
               {
                 "id": 10,
@@ -8134,7 +8134,7 @@
             "zone_expansion_id": 11,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_lightbloom.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/the-blinding-vale.jpg",
-            "score": 427.9,
+            "score": 427.8,
             "affixes": [
               {
                 "id": 10,
@@ -8431,7 +8431,7 @@
             "segments": {
               "all": {
                 "score": 2797.7,
-                "color": "#675fe4"
+                "color": "#6062e3"
               },
               "dps": {
                 "score": 0,
@@ -8439,7 +8439,7 @@
               },
               "healer": {
                 "score": 2797.7,
-                "color": "#675fe4"
+                "color": "#6062e3"
               },
               "tank": {
                 "score": 0,
@@ -8447,7 +8447,7 @@
               },
               "spec_0": {
                 "score": 2797.7,
-                "color": "#675fe4"
+                "color": "#6062e3"
               },
               "spec_1": {
                 "score": 0,
@@ -9979,18 +9979,18 @@
           {
             "season": "season-mn-2",
             "scores": {
-              "all": 3400.7,
+              "all": 3400.5,
               "dps": 0,
-              "healer": 3400.7,
+              "healer": 3400.5,
               "tank": 0,
-              "spec_0": 3400.7,
+              "spec_0": 3400.5,
               "spec_1": 0,
               "spec_2": 0,
               "spec_3": 0
             },
             "segments": {
               "all": {
-                "score": 3400.7,
+                "score": 3400.5,
                 "color": "#e3598b"
               },
               "dps": {
@@ -9998,7 +9998,7 @@
                 "color": "#ffffff"
               },
               "healer": {
-                "score": 3400.7,
+                "score": 3400.5,
                 "color": "#e3598b"
               },
               "tank": {
@@ -10006,7 +10006,7 @@
                 "color": "#ffffff"
               },
               "spec_0": {
-                "score": 3400.7,
+                "score": 3400.5,
                 "color": "#e3598b"
               },
               "spec_1": {
@@ -10093,7 +10093,7 @@
             "zone_expansion_id": 7,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_templeofsethraliss.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/temple-of-sethraliss.jpg",
-            "score": 429.3,
+            "score": 429.2,
             "affixes": [
               {
                 "id": 9,
@@ -10309,7 +10309,7 @@
             "zone_expansion_id": 9,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_lifepools.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion9/base/ruby-life-pools.jpg",
-            "score": 426.1,
+            "score": 426,
             "affixes": [
               {
                 "id": 9,
@@ -10527,7 +10527,7 @@
             "zone_expansion_id": 9,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_lifepools.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion9/base/ruby-life-pools.jpg",
-            "score": 426.1,
+            "score": 426,
             "affixes": [
               {
                 "id": 9,
@@ -10581,7 +10581,7 @@
             "zone_expansion_id": 7,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_templeofsethraliss.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/temple-of-sethraliss.jpg",
-            "score": 429.3,
+            "score": 429.2,
             "affixes": [
               {
                 "id": 9,
@@ -10959,7 +10959,7 @@
             "zone_expansion_id": 11,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_proveyourworth.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/den-of-nalorakk.jpg",
-            "score": 425.6,
+            "score": 425.5,
             "affixes": [
               {
                 "id": 10,

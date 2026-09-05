@@ -82,5 +82,33 @@
     "realm": "Gordunni",
     "realm_ru": "Гордунни",
     "char": "Кхня"
+  },
+  {
+    "twitch": "RupiDk",
+    "region": "eu",
+    "realm": "Howling Fjord",
+    "realm_ru": "Ревущий фьорд",
+    "char": "Рупичка"
+  },
+  {
+    "twitch": "main__x",
+    "region": "eu",
+    "realm": "Howling Fjord",
+    "realm_ru": "Ревущий фьорд",
+    "char": "Мейникс"
+  },
+  {
+    "twitch": "saniocheq",
+    "region": "eu",
+    "realm": "Howling Fjord",
+    "realm_ru": "Ревущий фьорд",
+    "char": "Эльпочита"
+  },
+  {
+    "twitch": "1indal",
+    "region": "eu",
+    "realm": "Howling Fjord",
+    "realm_ru": "Ревущий фьорд",
+    "char": "Линдал"
   }
-]
+  ]

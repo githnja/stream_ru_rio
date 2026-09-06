@@ -229,6 +229,12 @@
     border-radius: 999px;
     background: rgba(255,255,255,0.06);
   }
+  .role-icon{
+    width: 14px;
+    height: 14px;
+    object-fit: contain;
+    flex-shrink: 0;
+  }
 
   .key-badge{
     display:inline-flex;
@@ -434,6 +440,7 @@ const CLASS_COLOR = {
   "Demon Hunter":"#A330C9","Evoker":"#33937F"
 };
 const ROLE_RU = { "TANK":"Танк", "HEALING":"Хилер", "HEALER":"Хилер", "DPS":"ДД" };
+const ROLE_ICON = { "TANK":"tank.png", "HEALING":"heal.png", "HEALER":"heal.png", "DPS":"dps.png" };
 
 function keyTierClass(level){
   if(level >= 20) return "tier-extreme";
@@ -486,14 +493,18 @@ function computeDisplay(s){
     // персонажа в игре прямо сейчас (это могло смениться после забега).
     const roleKey = (best.role || "").toUpperCase();
     const roleRu = ROLE_RU[roleKey] || best.role || "—";
+    const roleIcon = ROLE_ICON[roleKey];
     const specName = (best.spec && best.spec.name) || d.active_spec_name || "";
-    out.roleCell = `<span class="role-pill" style="color:${color}; border:1px solid ${color}55;">${specName} · ${roleRu}</span>`;
+    const roleIconTag = roleIcon ? `<img class="role-icon" src="icons/${roleIcon}" alt="${roleRu}">` : "";
+    out.roleCell = `<span class="role-pill" style="color:${color}; border:1px solid ${color}55;">${roleIconTag}${specName} · ${roleRu}</span>`;
     out.sortRole = roleRu;
   } else {
     out.keyCell = '<span class="state-tag">нет ключей</span>';
     const roleKey = d.active_spec_role;
     const roleRu = ROLE_RU[roleKey] || roleKey || "—";
-    out.roleCell = `<span class="role-pill" style="color:${color}; border:1px solid ${color}55;">${d.active_spec_name || ""} · ${roleRu}</span>`;
+    const roleIcon = ROLE_ICON[roleKey];
+    const roleIconTag = roleIcon ? `<img class="role-icon" src="icons/${roleIcon}" alt="${roleRu}">` : "";
+    out.roleCell = `<span class="role-pill" style="color:${color}; border:1px solid ${color}55;">${roleIconTag}${d.active_spec_name || ""} · ${roleRu}</span>`;
     out.sortRole = roleRu;
   }
 

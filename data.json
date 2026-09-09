@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T20:46:31.611314Z",
+  "updated_at": "2026-09-09T23:06:25.513778Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -39,7 +39,7 @@
             "segments": {
               "all": {
                 "score": 3345.8,
-                "color": "#d64fa6"
+                "color": "#d54ea8"
               },
               "dps": {
                 "score": 0,
@@ -51,11 +51,11 @@
               },
               "tank": {
                 "score": 3345.8,
-                "color": "#d64fa6"
+                "color": "#d54ea8"
               },
               "spec_0": {
                 "score": 3345.8,
-                "color": "#d64fa6"
+                "color": "#d54ea8"
               },
               "spec_1": {
                 "score": 0,
@@ -1088,7 +1088,7 @@
             "segments": {
               "all": {
                 "score": 3527.8,
-                "color": "#e85f7b"
+                "color": "#e75e7f"
               },
               "dps": {
                 "score": 0,
@@ -1096,7 +1096,7 @@
               },
               "healer": {
                 "score": 3527.8,
-                "color": "#e85f7b"
+                "color": "#e75e7f"
               },
               "tank": {
                 "score": 0,
@@ -1112,7 +1112,7 @@
               },
               "spec_2": {
                 "score": 3527.8,
-                "color": "#e85f7b"
+                "color": "#e75e7f"
               },
               "spec_3": {
                 "score": 0,
@@ -2137,7 +2137,7 @@
             "segments": {
               "all": {
                 "score": 3534.7,
-                "color": "#ea6175"
+                "color": "#e96079"
               },
               "dps": {
                 "score": 0,
@@ -2149,11 +2149,11 @@
               },
               "tank": {
                 "score": 3534.7,
-                "color": "#ea6175"
+                "color": "#e96079"
               },
               "spec_0": {
                 "score": 3534.7,
-                "color": "#ea6175"
+                "color": "#e96079"
               },
               "spec_1": {
                 "score": 0,
@@ -3186,7 +3186,7 @@
             "segments": {
               "all": {
                 "score": 3262.5,
-                "color": "#c945be"
+                "color": "#c845bf"
               },
               "dps": {
                 "score": 0,
@@ -3198,7 +3198,7 @@
               },
               "tank": {
                 "score": 3262.5,
-                "color": "#c945be"
+                "color": "#c845bf"
               },
               "spec_0": {
                 "score": 0,
@@ -3210,7 +3210,7 @@
               },
               "spec_2": {
                 "score": 3262.5,
-                "color": "#c945be"
+                "color": "#c845bf"
               },
               "spec_3": {
                 "score": 0,
@@ -4235,11 +4235,11 @@
             "segments": {
               "all": {
                 "score": 3804.6,
-                "color": "#fd7b25"
+                "color": "#fb792e"
               },
               "dps": {
                 "score": 3804.6,
-                "color": "#fd7b25"
+                "color": "#fb792e"
               },
               "healer": {
                 "score": 0,
@@ -4259,7 +4259,7 @@
               },
               "spec_2": {
                 "score": 3804.6,
-                "color": "#fd7b25"
+                "color": "#fb792e"
               },
               "spec_3": {
                 "score": 0,
@@ -5284,11 +5284,11 @@
             "segments": {
               "all": {
                 "score": 3470.7,
-                "color": "#e45a88"
+                "color": "#e3598b"
               },
               "dps": {
                 "score": 3470.7,
-                "color": "#e45a88"
+                "color": "#e3598b"
               },
               "healer": {
                 "score": 0,
@@ -5304,7 +5304,7 @@
               },
               "spec_1": {
                 "score": 3470.7,
-                "color": "#e45a88"
+                "color": "#e3598b"
               },
               "spec_2": {
                 "score": 0,
@@ -6333,11 +6333,11 @@
             "segments": {
               "all": {
                 "score": 3373.3,
-                "color": "#d951a0"
+                "color": "#d850a2"
               },
               "dps": {
                 "score": 3373.3,
-                "color": "#d951a0"
+                "color": "#d850a2"
               },
               "healer": {
                 "score": 0,
@@ -6349,7 +6349,7 @@
               },
               "spec_0": {
                 "score": 3373.3,
-                "color": "#d951a0"
+                "color": "#d850a2"
               },
               "spec_1": {
                 "score": 0,
@@ -7363,26 +7363,26 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/tarren-mill/76/186624332-avatar.jpg?alt=/wow/static/images/2d/avatar/36-0.jpg",
         "region": "eu",
         "realm": "Tarren Mill",
-        "last_crawled_at": "2026-09-02T07:24:01.000Z",
+        "last_crawled_at": "2026-09-09T22:38:17.000Z",
         "profile_url": "https://raider.io/characters/eu/tarren-mill/Northur",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [
           {
             "season": "season-mn-2",
             "scores": {
-              "all": 3535.3,
+              "all": 3537.9,
               "dps": 0,
               "healer": 0,
-              "tank": 3535.3,
-              "spec_0": 3535.3,
+              "tank": 3537.9,
+              "spec_0": 3537.9,
               "spec_1": 0,
               "spec_2": 0,
               "spec_3": 0
             },
             "segments": {
               "all": {
-                "score": 3535.3,
-                "color": "#ea6175"
+                "score": 3537.9,
+                "color": "#e96079"
               },
               "dps": {
                 "score": 0,
@@ -7393,12 +7393,12 @@
                 "color": "#ffffff"
               },
               "tank": {
-                "score": 3535.3,
-                "color": "#ea6175"
+                "score": 3537.9,
+                "color": "#e96079"
               },
               "spec_0": {
-                "score": 3535.3,
-                "color": "#ea6175"
+                "score": 3537.9,
+                "color": "#e96079"
               },
               "spec_1": {
                 "score": 0,
@@ -7458,6 +7458,60 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/9111822-17-the-blinding-vale",
+            "spec": {
+              "id": 250,
+              "name": "Blood",
+              "slug": "blood",
+              "class_id": 6,
+              "role": "tank",
+              "is_melee": true,
+              "patch": "3.0.0",
+              "ordinal": 0
+            },
+            "role": "tank"
+          },
+          {
+            "dungeon": "Altar of Fangs",
+            "short_name": "AOF",
+            "mythic_level": 17,
+            "completed_at": "2026-09-09T20:31:46.000Z",
+            "clear_time_ms": 1649767,
+            "keystone_run_id": 10205926,
+            "par_time_ms": 1800999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 588,
+            "zone_id": 16865,
+            "zone_expansion_id": 11,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_altaroffangs.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/altar-of-fangs.jpg",
+            "score": 443.1,
+            "affixes": [
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 147,
+                "name": "Xal'atath's Guile",
+                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
+                "icon": "ability_racial_chillofnight",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
+                "wowhead_url": "https://wowhead.com/affix=147"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/10205926-17-altar-of-fangs",
             "spec": {
               "id": 250,
               "name": "Blood",
@@ -7741,60 +7795,6 @@
             "role": "tank"
           },
           {
-            "dungeon": "Altar of Fangs",
-            "short_name": "AOF",
-            "mythic_level": 17,
-            "completed_at": "2026-09-05T16:45:56.000Z",
-            "clear_time_ms": 1776593,
-            "keystone_run_id": 8477114,
-            "par_time_ms": 1800999,
-            "num_keystone_upgrades": 1,
-            "map_challenge_mode_id": 588,
-            "zone_id": 16865,
-            "zone_expansion_id": 11,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_altaroffangs.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/altar-of-fangs.jpg",
-            "score": 440.5,
-            "affixes": [
-              {
-                "id": 10,
-                "name": "Fortified",
-                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
-                "icon": "ability_toughness",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
-                "wowhead_url": "https://wowhead.com/affix=10"
-              },
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              },
-              {
-                "id": 147,
-                "name": "Xal'atath's Guile",
-                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
-                "icon": "ability_racial_chillofnight",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
-                "wowhead_url": "https://wowhead.com/affix=147"
-              }
-            ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/8477114-17-altar-of-fangs",
-            "spec": {
-              "id": 250,
-              "name": "Blood",
-              "slug": "blood",
-              "class_id": 6,
-              "role": "tank",
-              "is_melee": true,
-              "patch": "3.0.0",
-              "ordinal": 0
-            },
-            "role": "tank"
-          },
-          {
             "dungeon": "Kings' Rest",
             "short_name": "KR",
             "mythic_level": 17,
@@ -7946,6 +7946,60 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/9304983-17-ruby-life-pools",
+            "spec": {
+              "id": 250,
+              "name": "Blood",
+              "slug": "blood",
+              "class_id": 6,
+              "role": "tank",
+              "is_melee": true,
+              "patch": "3.0.0",
+              "ordinal": 0
+            },
+            "role": "tank"
+          },
+          {
+            "dungeon": "Altar of Fangs",
+            "short_name": "AOF",
+            "mythic_level": 17,
+            "completed_at": "2026-09-09T20:31:46.000Z",
+            "clear_time_ms": 1649767,
+            "keystone_run_id": 10205926,
+            "par_time_ms": 1800999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 588,
+            "zone_id": 16865,
+            "zone_expansion_id": 11,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_altaroffangs.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/altar-of-fangs.jpg",
+            "score": 443.1,
+            "affixes": [
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 147,
+                "name": "Xal'atath's Guile",
+                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
+                "icon": "ability_racial_chillofnight",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
+                "wowhead_url": "https://wowhead.com/affix=147"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/10205926-17-altar-of-fangs",
             "spec": {
               "id": 250,
               "name": "Blood",
@@ -8324,60 +8378,6 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/7320073-16-ruby-life-pools",
-            "spec": {
-              "id": 250,
-              "name": "Blood",
-              "slug": "blood",
-              "class_id": 6,
-              "role": "tank",
-              "is_melee": true,
-              "patch": "3.0.0",
-              "ordinal": 0
-            },
-            "role": "tank"
-          },
-          {
-            "dungeon": "Altar of Fangs",
-            "short_name": "AOF",
-            "mythic_level": 16,
-            "completed_at": "2026-08-31T21:41:49.000Z",
-            "clear_time_ms": 1632373,
-            "keystone_run_id": 6548966,
-            "par_time_ms": 1800999,
-            "num_keystone_upgrades": 1,
-            "map_challenge_mode_id": 588,
-            "zone_id": 16865,
-            "zone_expansion_id": 11,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_altaroffangs.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/altar-of-fangs.jpg",
-            "score": 428.5,
-            "affixes": [
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              },
-              {
-                "id": 10,
-                "name": "Fortified",
-                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
-                "icon": "ability_toughness",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
-                "wowhead_url": "https://wowhead.com/affix=10"
-              },
-              {
-                "id": 147,
-                "name": "Xal'atath's Guile",
-                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
-                "icon": "ability_racial_chillofnight",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
-                "wowhead_url": "https://wowhead.com/affix=147"
-              }
-            ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/6548966-16-altar-of-fangs",
             "spec": {
               "id": 250,
               "name": "Blood",
@@ -9999,7 +9999,7 @@
             "segments": {
               "all": {
                 "score": 3536.1,
-                "color": "#ea6175"
+                "color": "#e96079"
               },
               "dps": {
                 "score": 0,
@@ -10007,7 +10007,7 @@
               },
               "healer": {
                 "score": 3536.1,
-                "color": "#ea6175"
+                "color": "#e96079"
               },
               "tank": {
                 "score": 0,
@@ -10015,7 +10015,7 @@
               },
               "spec_0": {
                 "score": 3536.1,
-                "color": "#ea6175"
+                "color": "#e96079"
               },
               "spec_1": {
                 "score": 0,
@@ -11571,7 +11571,7 @@
             "segments": {
               "all": {
                 "score": 3773.8,
-                "color": "#fb792f"
+                "color": "#fa7737"
               },
               "dps": {
                 "score": 0,
@@ -11583,11 +11583,11 @@
               },
               "tank": {
                 "score": 3773.8,
-                "color": "#fb792f"
+                "color": "#fa7737"
               },
               "spec_0": {
                 "score": 3773.8,
-                "color": "#fb792f"
+                "color": "#fa7737"
               },
               "spec_1": {
                 "score": 0,
@@ -12620,11 +12620,11 @@
             "segments": {
               "all": {
                 "score": 3787.9,
-                "color": "#fb792f"
+                "color": "#fa7737"
               },
               "dps": {
                 "score": 3787.9,
-                "color": "#fb792f"
+                "color": "#fa7737"
               },
               "healer": {
                 "score": 0,
@@ -12636,7 +12636,7 @@
               },
               "spec_0": {
                 "score": 3366.2,
-                "color": "#d951a0"
+                "color": "#d850a2"
               },
               "spec_1": {
                 "score": 662.4,
@@ -12644,7 +12644,7 @@
               },
               "spec_2": {
                 "score": 3761.3,
-                "color": "#fa7738"
+                "color": "#f9753f"
               },
               "spec_3": {
                 "score": 0,
@@ -13669,11 +13669,11 @@
             "segments": {
               "all": {
                 "score": 3816.5,
-                "color": "#fe7e17"
+                "color": "#fd7b24"
               },
               "dps": {
                 "score": 3816.5,
-                "color": "#fe7e17"
+                "color": "#fd7b24"
               },
               "healer": {
                 "score": 0,
@@ -13693,7 +13693,7 @@
               },
               "spec_2": {
                 "score": 3816.5,
-                "color": "#fe7e17"
+                "color": "#fd7b24"
               },
               "spec_3": {
                 "score": 0,
@@ -14718,11 +14718,11 @@
             "segments": {
               "all": {
                 "score": 3656.3,
-                "color": "#f46d55"
+                "color": "#f26b5a"
               },
               "dps": {
                 "score": 3656.3,
-                "color": "#f46d55"
+                "color": "#f26b5a"
               },
               "healer": {
                 "score": 0,
@@ -14734,7 +14734,7 @@
               },
               "spec_0": {
                 "score": 3656.3,
-                "color": "#f46d55"
+                "color": "#f26b5a"
               },
               "spec_1": {
                 "score": 0,

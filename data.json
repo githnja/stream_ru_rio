@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T19:29:57.463282Z",
+  "updated_at": "2026-09-10T21:48:59.723129Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -20,26 +20,26 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/227/165735395-avatar.jpg?alt=/wow/static/images/2d/avatar/31-0.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-09-10T00:53:33.000Z",
+        "last_crawled_at": "2026-09-10T21:13:48.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Кхня",
         "profile_banner": "hordebanner6",
         "mythic_plus_scores_by_season": [
           {
             "season": "season-mn-2",
             "scores": {
-              "all": 3359.3,
+              "all": 3372,
               "dps": 0,
               "healer": 0,
-              "tank": 3359.3,
-              "spec_0": 3359.3,
+              "tank": 3372,
+              "spec_0": 3372,
               "spec_1": 0,
               "spec_2": 0,
               "spec_3": 0
             },
             "segments": {
               "all": {
-                "score": 3359.3,
-                "color": "#d54ea8"
+                "score": 3372,
+                "color": "#d850a2"
               },
               "dps": {
                 "score": 0,
@@ -50,12 +50,12 @@
                 "color": "#ffffff"
               },
               "tank": {
-                "score": 3359.3,
-                "color": "#d54ea8"
+                "score": 3372,
+                "color": "#d850a2"
               },
               "spec_0": {
-                "score": 3359.3,
-                "color": "#d54ea8"
+                "score": 3372,
+                "color": "#d850a2"
               },
               "spec_1": {
                 "score": 0,
@@ -115,6 +115,60 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/10107091-16-temple-of-sethraliss",
+            "spec": {
+              "id": 250,
+              "name": "Blood",
+              "slug": "blood",
+              "class_id": 6,
+              "role": "tank",
+              "is_melee": true,
+              "patch": "3.0.0",
+              "ordinal": 0
+            },
+            "role": "tank"
+          },
+          {
+            "dungeon": "Voidscar Arena",
+            "short_name": "VSA",
+            "mythic_level": 16,
+            "completed_at": "2026-09-10T16:19:14.000Z",
+            "clear_time_ms": 1694962,
+            "keystone_run_id": 10573435,
+            "par_time_ms": 1800999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 585,
+            "zone_id": 16425,
+            "zone_expansion_id": 11,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_voidscararena.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/voidscar-arena.jpg",
+            "score": 427.2,
+            "affixes": [
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 147,
+                "name": "Xal'atath's Guile",
+                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
+                "icon": "ability_racial_chillofnight",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
+                "wowhead_url": "https://wowhead.com/affix=147"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/10573435-16-voidscar-arena",
             "spec": {
               "id": 250,
               "name": "Blood",
@@ -277,60 +331,6 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/10006042-16-kings-rest",
-            "spec": {
-              "id": 250,
-              "name": "Blood",
-              "slug": "blood",
-              "class_id": 6,
-              "role": "tank",
-              "is_melee": true,
-              "patch": "3.0.0",
-              "ordinal": 0
-            },
-            "role": "tank"
-          },
-          {
-            "dungeon": "Voidscar Arena",
-            "short_name": "VSA",
-            "mythic_level": 15,
-            "completed_at": "2026-09-04T15:07:16.000Z",
-            "clear_time_ms": 1583838,
-            "keystone_run_id": 7943548,
-            "par_time_ms": 1800999,
-            "num_keystone_upgrades": 1,
-            "map_challenge_mode_id": 585,
-            "zone_id": 16425,
-            "zone_expansion_id": 11,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_voidscararena.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/voidscar-arena.jpg",
-            "score": 414.5,
-            "affixes": [
-              {
-                "id": 10,
-                "name": "Fortified",
-                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
-                "icon": "ability_toughness",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
-                "wowhead_url": "https://wowhead.com/affix=10"
-              },
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              },
-              {
-                "id": 147,
-                "name": "Xal'atath's Guile",
-                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
-                "icon": "ability_racial_chillofnight",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
-                "wowhead_url": "https://wowhead.com/affix=147"
-              }
-            ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/7943548-15-voidscar-arena",
             "spec": {
               "id": 250,
               "name": "Blood",
@@ -507,6 +507,60 @@
           }
         ],
         "mythic_plus_highest_level_runs": [
+          {
+            "dungeon": "Voidscar Arena",
+            "short_name": "VSA",
+            "mythic_level": 16,
+            "completed_at": "2026-09-10T16:19:14.000Z",
+            "clear_time_ms": 1694962,
+            "keystone_run_id": 10573435,
+            "par_time_ms": 1800999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 585,
+            "zone_id": 16425,
+            "zone_expansion_id": 11,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_voidscararena.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/voidscar-arena.jpg",
+            "score": 427.2,
+            "affixes": [
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 147,
+                "name": "Xal'atath's Guile",
+                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
+                "icon": "ability_racial_chillofnight",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
+                "wowhead_url": "https://wowhead.com/affix=147"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/10573435-16-voidscar-arena",
+            "spec": {
+              "id": 250,
+              "name": "Blood",
+              "slug": "blood",
+              "class_id": 6,
+              "role": "tank",
+              "is_melee": true,
+              "patch": "3.0.0",
+              "ordinal": 0
+            },
+            "role": "tank"
+          },
           {
             "dungeon": "Temple of Sethraliss",
             "short_name": "TOS",
@@ -992,60 +1046,6 @@
               "ordinal": 0
             },
             "role": "tank"
-          },
-          {
-            "dungeon": "The Blinding Vale",
-            "short_name": "BV",
-            "mythic_level": 15,
-            "completed_at": "2026-09-05T12:59:30.000Z",
-            "clear_time_ms": 1788410,
-            "keystone_run_id": 8396156,
-            "par_time_ms": 1800999,
-            "num_keystone_upgrades": 1,
-            "map_challenge_mode_id": 584,
-            "zone_id": 16359,
-            "zone_expansion_id": 11,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_lightbloom.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/the-blinding-vale.jpg",
-            "score": 410.2,
-            "affixes": [
-              {
-                "id": 10,
-                "name": "Fortified",
-                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
-                "icon": "ability_toughness",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
-                "wowhead_url": "https://wowhead.com/affix=10"
-              },
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              },
-              {
-                "id": 147,
-                "name": "Xal'atath's Guile",
-                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
-                "icon": "ability_racial_chillofnight",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
-                "wowhead_url": "https://wowhead.com/affix=147"
-              }
-            ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/8396156-15-the-blinding-vale",
-            "spec": {
-              "id": 250,
-              "name": "Blood",
-              "slug": "blood",
-              "class_id": 6,
-              "role": "tank",
-              "is_melee": true,
-              "patch": "3.0.0",
-              "ordinal": 0
-            },
-            "role": "tank"
           }
         ]
       }
@@ -1077,10 +1077,10 @@
             "season": "season-mn-2",
             "scores": {
               "all": 3527.8,
-              "dps": 0,
+              "dps": 375.6,
               "healer": 3527.8,
               "tank": 0,
-              "spec_0": 0,
+              "spec_0": 375.6,
               "spec_1": 0,
               "spec_2": 3527.8,
               "spec_3": 0
@@ -1091,8 +1091,8 @@
                 "color": "#e75e7f"
               },
               "dps": {
-                "score": 0,
-                "color": "#ffffff"
+                "score": 375.6,
+                "color": "#efffe8"
               },
               "healer": {
                 "score": 3527.8,
@@ -1103,8 +1103,8 @@
                 "color": "#ffffff"
               },
               "spec_0": {
-                "score": 0,
-                "color": "#ffffff"
+                "score": 375.6,
+                "color": "#efffe8"
               },
               "spec_1": {
                 "score": 0,
@@ -5265,7 +5265,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/177/195424945-avatar.jpg?alt=/wow/static/images/2d/avatar/2-1.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-09-08T01:00:19.000Z",
+        "last_crawled_at": "2026-09-10T20:51:24.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Мидсу",
         "profile_banner": "classbanner_hunter1",
         "mythic_plus_scores_by_season": [

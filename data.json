@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T05:10:32.679234Z",
+  "updated_at": "2026-09-17T10:18:48.783193Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -20,7 +20,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/227/165735395-avatar.jpg?alt=/wow/static/images/2d/avatar/31-0.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-09-16T17:28:30.000Z",
+        "last_crawled_at": "2026-09-17T06:00:58.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Кхня",
         "profile_banner": "hordebanner6",
         "mythic_plus_scores_by_season": [
@@ -2118,7 +2118,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/silvermoon/121/226024057-avatar.jpg?alt=/wow/static/images/2d/avatar/6-1.jpg",
         "region": "eu",
         "realm": "Silvermoon",
-        "last_crawled_at": "2026-09-16T13:56:39.000Z",
+        "last_crawled_at": "2026-09-17T06:11:05.000Z",
         "profile_url": "https://raider.io/characters/eu/silvermoon/Shotta",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [
@@ -3167,7 +3167,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/199/163149255-avatar.jpg?alt=/wow/static/images/2d/avatar/6-0.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-09-15T10:49:49.000Z",
+        "last_crawled_at": "2026-09-17T06:09:43.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Взбучкаю",
         "profile_banner": "hordebanner13",
         "mythic_plus_scores_by_season": [
@@ -4216,7 +4216,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/151/193857943-avatar.jpg?alt=/wow/static/images/2d/avatar/4-1.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-09-16T21:37:31.000Z",
+        "last_crawled_at": "2026-09-17T06:14:06.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Темканайк",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [
@@ -7359,11 +7359,11 @@
         "active_spec_role": "TANK",
         "gender": "male",
         "faction": "horde",
-        "achievement_points": 9255,
+        "achievement_points": 9420,
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/tarren-mill/76/186624332-avatar.jpg?alt=/wow/static/images/2d/avatar/36-0.jpg",
         "region": "eu",
         "realm": "Tarren Mill",
-        "last_crawled_at": "2026-09-15T00:41:14.000Z",
+        "last_crawled_at": "2026-09-17T06:28:14.000Z",
         "profile_url": "https://raider.io/characters/eu/tarren-mill/Northur",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [
@@ -11071,11 +11071,11 @@
         "active_spec_role": "TANK",
         "gender": "male",
         "faction": "alliance",
-        "achievement_points": 26410,
+        "achievement_points": 26435,
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/gordunni/155/266370459-avatar.jpg?alt=/wow/static/images/2d/avatar/1-0.jpg",
         "region": "eu",
         "realm": "Gordunni",
-        "last_crawled_at": "2026-09-13T06:43:47.000Z",
+        "last_crawled_at": "2026-09-17T06:00:58.000Z",
         "profile_url": "https://raider.io/characters/eu/gordunni/Кхня",
         "profile_banner": "alliancebanner6",
         "mythic_plus_scores_by_season": [
@@ -11652,7 +11652,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/207/186498767-avatar.jpg?alt=/wow/static/images/2d/avatar/35-0.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-09-16T09:15:47.000Z",
+        "last_crawled_at": "2026-09-17T06:13:40.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Рупичка",
         "profile_banner": "hordebanner1",
         "mythic_plus_scores_by_season": [
@@ -12697,11 +12697,11 @@
         "active_spec_role": "DPS",
         "gender": "female",
         "faction": "alliance",
-        "achievement_points": 30950,
+        "achievement_points": 30960,
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/229/192117733-avatar.jpg?alt=/wow/static/images/2d/avatar/7-1.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-09-16T21:00:02.000Z",
+        "last_crawled_at": "2026-09-17T06:13:13.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Мейникс",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [

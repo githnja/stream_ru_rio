@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T23:31:06.971550Z",
+  "updated_at": "2026-09-19T04:02:12.615283Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -20,7 +20,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/227/165735395-avatar.jpg?alt=/wow/static/images/2d/avatar/31-0.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-09-18T17:45:14.000Z",
+        "last_crawled_at": "2026-09-18T23:41:15.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Кхня",
         "profile_banner": "hordebanner6",
         "mythic_plus_scores_by_season": [
@@ -8412,7 +8412,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/twisting-nether/243/196738035-avatar.jpg?alt=/wow/static/images/2d/avatar/30-1.jpg",
         "region": "eu",
         "realm": "Twisting Nether",
-        "last_crawled_at": "2026-09-18T09:24:13.000Z",
+        "last_crawled_at": "2026-09-19T03:23:31.000Z",
         "profile_url": "https://raider.io/characters/eu/twisting-nether/Murlgmrlgrlg",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [

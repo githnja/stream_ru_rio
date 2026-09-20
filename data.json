@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T01:29:08.268262Z",
+  "updated_at": "2026-09-20T06:54:11.565040Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -1092,7 +1092,7 @@
               },
               "dps": {
                 "score": 375.6,
-                "color": "#f1ffea"
+                "color": "#f1ffeb"
               },
               "healer": {
                 "score": 3527.8,
@@ -1104,7 +1104,7 @@
               },
               "spec_0": {
                 "score": 375.6,
-                "color": "#f1ffea"
+                "color": "#f1ffeb"
               },
               "spec_1": {
                 "score": 0,
@@ -2141,7 +2141,7 @@
               },
               "dps": {
                 "score": 367,
-                "color": "#f3ffed"
+                "color": "#f3ffee"
               },
               "healer": {
                 "score": 0,
@@ -2161,7 +2161,7 @@
               },
               "spec_2": {
                 "score": 367,
-                "color": "#f3ffed"
+                "color": "#f3ffee"
               },
               "spec_3": {
                 "score": 0,
@@ -4216,7 +4216,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/151/193857943-avatar.jpg?alt=/wow/static/images/2d/avatar/4-1.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-09-18T22:56:27.000Z",
+        "last_crawled_at": "2026-09-20T06:44:25.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Темканайк",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [
@@ -7359,11 +7359,11 @@
         "active_spec_role": "TANK",
         "gender": "male",
         "faction": "horde",
-        "achievement_points": 9420,
+        "achievement_points": 9445,
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/tarren-mill/76/186624332-avatar.jpg?alt=/wow/static/images/2d/avatar/36-0.jpg",
         "region": "eu",
         "realm": "Tarren Mill",
-        "last_crawled_at": "2026-09-18T11:10:23.000Z",
+        "last_crawled_at": "2026-09-20T02:37:37.000Z",
         "profile_url": "https://raider.io/characters/eu/tarren-mill/Northur",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [
@@ -9480,7 +9480,7 @@
             "segments": {
               "all": {
                 "score": 1329.9,
-                "color": "#94ff78"
+                "color": "#96ff7a"
               },
               "dps": {
                 "score": 0,
@@ -9488,7 +9488,7 @@
               },
               "healer": {
                 "score": 1329.9,
-                "color": "#94ff78"
+                "color": "#96ff7a"
               },
               "tank": {
                 "score": 0,
@@ -9504,7 +9504,7 @@
               },
               "spec_2": {
                 "score": 1329.9,
-                "color": "#94ff78"
+                "color": "#96ff7a"
               },
               "spec_3": {
                 "score": 0,
@@ -11094,7 +11094,7 @@
             "segments": {
               "all": {
                 "score": 1754.6,
-                "color": "#51ff36"
+                "color": "#56ff3b"
               },
               "dps": {
                 "score": 0,
@@ -11106,7 +11106,7 @@
               },
               "tank": {
                 "score": 1754.6,
-                "color": "#51ff36"
+                "color": "#56ff3b"
               },
               "spec_0": {
                 "score": 0,
@@ -11114,7 +11114,7 @@
               },
               "spec_1": {
                 "score": 1754.6,
-                "color": "#51ff36"
+                "color": "#56ff3b"
               },
               "spec_2": {
                 "score": 0,
@@ -12924,7 +12924,7 @@
               },
               "spec_1": {
                 "score": 662.4,
-                "color": "#d9ffca"
+                "color": "#daffcb"
               },
               "spec_2": {
                 "score": 3889.6,
@@ -13930,11 +13930,11 @@
         "active_spec_role": "DPS",
         "gender": "female",
         "faction": "alliance",
-        "achievement_points": 8840,
+        "achievement_points": 8870,
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/192/190324928-avatar.jpg?alt=/wow/static/images/2d/avatar/4-1.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-09-18T09:08:14.000Z",
+        "last_crawled_at": "2026-09-20T02:22:38.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Эльпочита",
         "profile_banner": "classbanner_monk1",
         "mythic_plus_scores_by_season": [

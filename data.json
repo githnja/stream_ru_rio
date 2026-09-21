@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T01:30:47.609460Z",
+  "updated_at": "2026-09-21T07:49:02.443344Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -2118,7 +2118,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/silvermoon/121/226024057-avatar.jpg?alt=/wow/static/images/2d/avatar/6-1.jpg",
         "region": "eu",
         "realm": "Silvermoon",
-        "last_crawled_at": "2026-09-20T10:11:19.000Z",
+        "last_crawled_at": "2026-09-21T03:12:28.000Z",
         "profile_url": "https://raider.io/characters/eu/silvermoon/Shotta",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [
@@ -7363,7 +7363,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/tarren-mill/76/186624332-avatar.jpg?alt=/wow/static/images/2d/avatar/36-0.jpg",
         "region": "eu",
         "realm": "Tarren Mill",
-        "last_crawled_at": "2026-09-20T02:37:37.000Z",
+        "last_crawled_at": "2026-09-21T04:16:23.000Z",
         "profile_url": "https://raider.io/characters/eu/tarren-mill/Northur",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [

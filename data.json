@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T07:32:06.409793Z",
+  "updated_at": "2026-09-22T13:15:28.345548Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -3174,19 +3174,19 @@
           {
             "season": "season-mn-2",
             "scores": {
-              "all": 3533.8,
+              "all": 3550.3,
               "dps": 0,
               "healer": 0,
-              "tank": 3533.8,
+              "tank": 3550.3,
               "spec_0": 0,
               "spec_1": 0,
-              "spec_2": 3533.8,
+              "spec_2": 3550.3,
               "spec_3": 0
             },
             "segments": {
               "all": {
-                "score": 3533.8,
-                "color": "#dc539a"
+                "score": 3550.3,
+                "color": "#df5594"
               },
               "dps": {
                 "score": 0,
@@ -3197,8 +3197,8 @@
                 "color": "#ffffff"
               },
               "tank": {
-                "score": 3533.8,
-                "color": "#dc539a"
+                "score": 3550.3,
+                "color": "#df5594"
               },
               "spec_0": {
                 "score": 0,
@@ -3209,8 +3209,8 @@
                 "color": "#ffffff"
               },
               "spec_2": {
-                "score": 3533.8,
-                "color": "#dc539a"
+                "score": 3550.3,
+                "color": "#df5594"
               },
               "spec_3": {
                 "score": 0,
@@ -3262,6 +3262,60 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/14349747-20-altar-of-fangs",
+            "spec": {
+              "id": 104,
+              "name": "Guardian",
+              "slug": "guardian",
+              "class_id": 11,
+              "role": "tank",
+              "is_melee": true,
+              "patch": "1.0.0",
+              "ordinal": 2
+            },
+            "role": "tank"
+          },
+          {
+            "dungeon": "Murder Row",
+            "short_name": "MR",
+            "mythic_level": 17,
+            "completed_at": "2026-09-22T08:47:47.000Z",
+            "clear_time_ms": 1743906,
+            "keystone_run_id": 14609665,
+            "par_time_ms": 2040999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 587,
+            "zone_id": 16091,
+            "zone_expansion_id": 11,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_murderrow.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/murder-row.jpg",
+            "score": 445.4,
+            "affixes": [
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 147,
+                "name": "Xal'atath's Guile",
+                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
+                "icon": "ability_racial_chillofnight",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
+                "wowhead_url": "https://wowhead.com/affix=147"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/14609665-17-murder-row",
             "spec": {
               "id": 104,
               "name": "Guardian",
@@ -3332,9 +3386,9 @@
             "dungeon": "Temple of Sethraliss",
             "short_name": "TOS",
             "mythic_level": 17,
-            "completed_at": "2026-09-14T10:07:08.000Z",
-            "clear_time_ms": 1802857,
-            "keystone_run_id": 12074695,
+            "completed_at": "2026-09-22T10:40:58.000Z",
+            "clear_time_ms": 1775466,
+            "keystone_run_id": 14622935,
             "par_time_ms": 1920999,
             "num_keystone_upgrades": 1,
             "map_challenge_mode_id": 250,
@@ -3342,16 +3396,8 @@
             "zone_expansion_id": 7,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_templeofsethraliss.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/temple-of-sethraliss.jpg",
-            "score": 442.3,
+            "score": 442.8,
             "affixes": [
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              },
               {
                 "id": 10,
                 "name": "Fortified",
@@ -3359,6 +3405,14 @@
                 "icon": "ability_toughness",
                 "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
                 "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
               },
               {
                 "id": 147,
@@ -3369,7 +3423,7 @@
                 "wowhead_url": "https://wowhead.com/affix=147"
               }
             ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/12074695-17-temple-of-sethraliss",
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/14622935-17-temple-of-sethraliss",
             "spec": {
               "id": 104,
               "name": "Guardian",
@@ -3532,60 +3586,6 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/12733326-16-voidscar-arena",
-            "spec": {
-              "id": 104,
-              "name": "Guardian",
-              "slug": "guardian",
-              "class_id": 11,
-              "role": "tank",
-              "is_melee": true,
-              "patch": "1.0.0",
-              "ordinal": 2
-            },
-            "role": "tank"
-          },
-          {
-            "dungeon": "Murder Row",
-            "short_name": "MR",
-            "mythic_level": 16,
-            "completed_at": "2026-09-11T12:55:08.000Z",
-            "clear_time_ms": 1794385,
-            "keystone_run_id": 10798024,
-            "par_time_ms": 2040999,
-            "num_keystone_upgrades": 1,
-            "map_challenge_mode_id": 587,
-            "zone_id": 16091,
-            "zone_expansion_id": 11,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_murderrow.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/murder-row.jpg",
-            "score": 429.5,
-            "affixes": [
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              },
-              {
-                "id": 10,
-                "name": "Fortified",
-                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
-                "icon": "ability_toughness",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
-                "wowhead_url": "https://wowhead.com/affix=10"
-              },
-              {
-                "id": 147,
-                "name": "Xal'atath's Guile",
-                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
-                "icon": "ability_racial_chillofnight",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
-                "wowhead_url": "https://wowhead.com/affix=147"
-              }
-            ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/10798024-16-murder-row",
             "spec": {
               "id": 104,
               "name": "Guardian",
@@ -3979,6 +3979,60 @@
             "role": "tank"
           },
           {
+            "dungeon": "Murder Row",
+            "short_name": "MR",
+            "mythic_level": 17,
+            "completed_at": "2026-09-22T08:47:47.000Z",
+            "clear_time_ms": 1743906,
+            "keystone_run_id": 14609665,
+            "par_time_ms": 2040999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 587,
+            "zone_id": 16091,
+            "zone_expansion_id": 11,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_murderrow.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/murder-row.jpg",
+            "score": 445.4,
+            "affixes": [
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 147,
+                "name": "Xal'atath's Guile",
+                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
+                "icon": "ability_racial_chillofnight",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
+                "wowhead_url": "https://wowhead.com/affix=147"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/14609665-17-murder-row",
+            "spec": {
+              "id": 104,
+              "name": "Guardian",
+              "slug": "guardian",
+              "class_id": 11,
+              "role": "tank",
+              "is_melee": true,
+              "patch": "1.0.0",
+              "ordinal": 2
+            },
+            "role": "tank"
+          },
+          {
             "dungeon": "The Blinding Vale",
             "short_name": "BV",
             "mythic_level": 17,
@@ -4036,9 +4090,9 @@
             "dungeon": "Temple of Sethraliss",
             "short_name": "TOS",
             "mythic_level": 17,
-            "completed_at": "2026-09-14T10:07:08.000Z",
-            "clear_time_ms": 1802857,
-            "keystone_run_id": 12074695,
+            "completed_at": "2026-09-22T10:40:58.000Z",
+            "clear_time_ms": 1775466,
+            "keystone_run_id": 14622935,
             "par_time_ms": 1920999,
             "num_keystone_upgrades": 1,
             "map_challenge_mode_id": 250,
@@ -4046,16 +4100,8 @@
             "zone_expansion_id": 7,
             "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_templeofsethraliss.jpg",
             "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/temple-of-sethraliss.jpg",
-            "score": 442.3,
+            "score": 442.8,
             "affixes": [
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              },
               {
                 "id": 10,
                 "name": "Fortified",
@@ -4063,6 +4109,14 @@
                 "icon": "ability_toughness",
                 "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
                 "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
               },
               {
                 "id": 147,
@@ -4073,7 +4127,7 @@
                 "wowhead_url": "https://wowhead.com/affix=147"
               }
             ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/12074695-17-temple-of-sethraliss",
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/14622935-17-temple-of-sethraliss",
             "spec": {
               "id": 104,
               "name": "Guardian",
@@ -4087,74 +4141,20 @@
             "role": "tank"
           },
           {
-            "dungeon": "Ruby Life Pools",
-            "short_name": "RLP",
-            "mythic_level": 16,
-            "completed_at": "2026-09-14T09:27:56.000Z",
-            "clear_time_ms": 1492041,
-            "keystone_run_id": 12069420,
-            "par_time_ms": 1680999,
-            "num_keystone_upgrades": 1,
-            "map_challenge_mode_id": 399,
-            "zone_id": 14063,
-            "zone_expansion_id": 9,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_lifepools.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion9/base/ruby-life-pools.jpg",
-            "score": 429.2,
-            "affixes": [
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              },
-              {
-                "id": 10,
-                "name": "Fortified",
-                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
-                "icon": "ability_toughness",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
-                "wowhead_url": "https://wowhead.com/affix=10"
-              },
-              {
-                "id": 147,
-                "name": "Xal'atath's Guile",
-                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
-                "icon": "ability_racial_chillofnight",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
-                "wowhead_url": "https://wowhead.com/affix=147"
-              }
-            ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/12069420-16-ruby-life-pools",
-            "spec": {
-              "id": 104,
-              "name": "Guardian",
-              "slug": "guardian",
-              "class_id": 11,
-              "role": "tank",
-              "is_melee": true,
-              "patch": "1.0.0",
-              "ordinal": 2
-            },
-            "role": "tank"
-          },
-          {
-            "dungeon": "Voidscar Arena",
-            "short_name": "VSA",
-            "mythic_level": 16,
-            "completed_at": "2026-09-16T07:54:10.000Z",
-            "clear_time_ms": 1570591,
-            "keystone_run_id": 12733326,
+            "dungeon": "Altar of Fangs",
+            "short_name": "AOF",
+            "mythic_level": 17,
+            "completed_at": "2026-09-22T11:34:38.000Z",
+            "clear_time_ms": 1796286,
+            "keystone_run_id": 14633119,
             "par_time_ms": 1800999,
             "num_keystone_upgrades": 1,
-            "map_challenge_mode_id": 585,
-            "zone_id": 16425,
+            "map_challenge_mode_id": 588,
+            "zone_id": 16865,
             "zone_expansion_id": 11,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_voidscararena.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/voidscar-arena.jpg",
-            "score": 429.8,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_altaroffangs.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/altar-of-fangs.jpg",
+            "score": 440.1,
             "affixes": [
               {
                 "id": 10,
@@ -4181,7 +4181,7 @@
                 "wowhead_url": "https://wowhead.com/affix=147"
               }
             ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/12733326-16-voidscar-arena",
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/14633119-17-altar-of-fangs",
             "spec": {
               "id": 104,
               "name": "Guardian",

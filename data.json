@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T14:21:18.679912Z",
+  "updated_at": "2026-09-23T18:32:42.137889Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -11094,7 +11094,7 @@
             "segments": {
               "all": {
                 "score": 2354,
-                "color": "#5fc185"
+                "color": "#5fc383"
               },
               "dps": {
                 "score": 599.4,

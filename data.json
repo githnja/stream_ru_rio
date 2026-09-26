@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T14:40:29.466892Z",
+  "updated_at": "2026-09-26T18:27:00.620247Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -1092,7 +1092,7 @@
               },
               "dps": {
                 "score": 375.6,
-                "color": "#f1ffeb"
+                "color": "#f2ffec"
               },
               "healer": {
                 "score": 3527.8,
@@ -1104,7 +1104,7 @@
               },
               "spec_0": {
                 "score": 375.6,
-                "color": "#f1ffeb"
+                "color": "#f2ffec"
               },
               "spec_1": {
                 "score": 0,
@@ -2141,7 +2141,7 @@
               },
               "dps": {
                 "score": 367,
-                "color": "#f3ffee"
+                "color": "#f4ffee"
               },
               "healer": {
                 "score": 0,
@@ -2161,7 +2161,7 @@
               },
               "spec_2": {
                 "score": 367,
-                "color": "#f3ffee"
+                "color": "#f4ffee"
               },
               "spec_3": {
                 "score": 0,
@@ -9480,7 +9480,7 @@
             "segments": {
               "all": {
                 "score": 1329.9,
-                "color": "#9aff7e"
+                "color": "#9bff80"
               },
               "dps": {
                 "score": 0,
@@ -9488,7 +9488,7 @@
               },
               "healer": {
                 "score": 1329.9,
-                "color": "#9aff7e"
+                "color": "#9bff80"
               },
               "tank": {
                 "score": 0,
@@ -9504,7 +9504,7 @@
               },
               "spec_2": {
                 "score": 1329.9,
-                "color": "#9aff7e"
+                "color": "#9bff80"
               },
               "spec_3": {
                 "score": 0,
@@ -11094,11 +11094,11 @@
             "segments": {
               "all": {
                 "score": 2354,
-                "color": "#5ec67e"
+                "color": "#5dc97b"
               },
               "dps": {
                 "score": 599.4,
-                "color": "#e1ffd5"
+                "color": "#e2ffd5"
               },
               "healer": {
                 "score": 0,
@@ -11106,7 +11106,7 @@
               },
               "tank": {
                 "score": 1754.6,
-                "color": "#5eff43"
+                "color": "#62ff47"
               },
               "spec_0": {
                 "score": 0,
@@ -11114,11 +11114,11 @@
               },
               "spec_1": {
                 "score": 1754.6,
-                "color": "#5eff43"
+                "color": "#62ff47"
               },
               "spec_2": {
                 "score": 599.4,
-                "color": "#e1ffd5"
+                "color": "#e2ffd5"
               },
               "spec_3": {
                 "score": 0,
@@ -13124,7 +13124,7 @@
               },
               "spec_1": {
                 "score": 1633.7,
-                "color": "#73ff57"
+                "color": "#76ff5a"
               },
               "spec_2": {
                 "score": 3889.6,

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T21:26:23.774637Z",
+  "updated_at": "2026-09-26T23:47:15.889944Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -6321,23 +6321,23 @@
           {
             "season": "season-mn-2",
             "scores": {
-              "all": 3456.2,
-              "dps": 3456.2,
+              "all": 3469.9,
+              "dps": 3469.9,
               "healer": 0,
               "tank": 0,
-              "spec_0": 3456.2,
+              "spec_0": 3469.9,
               "spec_1": 0,
               "spec_2": 0,
               "spec_3": 0
             },
             "segments": {
               "all": {
-                "score": 3456.2,
-                "color": "#ce49b5"
+                "score": 3469.9,
+                "color": "#d14baf"
               },
               "dps": {
-                "score": 3456.2,
-                "color": "#ce49b5"
+                "score": 3469.9,
+                "color": "#d14baf"
               },
               "healer": {
                 "score": 0,
@@ -6348,8 +6348,8 @@
                 "color": "#ffffff"
               },
               "spec_0": {
-                "score": 3456.2,
-                "color": "#ce49b5"
+                "score": 3469.9,
+                "color": "#d14baf"
               },
               "spec_1": {
                 "score": 0,
@@ -6367,6 +6367,60 @@
           }
         ],
         "mythic_plus_best_runs": [
+          {
+            "dungeon": "Voidscar Arena",
+            "short_name": "VSA",
+            "mythic_level": 17,
+            "completed_at": "2026-09-26T22:45:28.000Z",
+            "clear_time_ms": 1700347,
+            "keystone_run_id": 16037827,
+            "par_time_ms": 1800999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 585,
+            "zone_id": 16425,
+            "zone_expansion_id": 11,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_voidscararena.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/voidscar-arena.jpg",
+            "score": 442.1,
+            "affixes": [
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 147,
+                "name": "Xal'atath's Guile",
+                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
+                "icon": "ability_racial_chillofnight",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
+                "wowhead_url": "https://wowhead.com/affix=147"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/16037827-17-voidscar-arena",
+            "spec": {
+              "id": 577,
+              "name": "Havoc",
+              "slug": "havoc",
+              "class_id": 12,
+              "role": "dps",
+              "is_melee": true,
+              "patch": "7.0.0",
+              "ordinal": 0
+            },
+            "role": "dps"
+          },
           {
             "dungeon": "Ruby Life Pools",
             "short_name": "RLP",
@@ -6638,60 +6692,6 @@
             "role": "dps"
           },
           {
-            "dungeon": "Voidscar Arena",
-            "short_name": "VSA",
-            "mythic_level": 16,
-            "completed_at": "2026-09-12T22:39:39.000Z",
-            "clear_time_ms": 1642078,
-            "keystone_run_id": 11523275,
-            "par_time_ms": 1800999,
-            "num_keystone_upgrades": 1,
-            "map_challenge_mode_id": 585,
-            "zone_id": 16425,
-            "zone_expansion_id": 11,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_voidscararena.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/voidscar-arena.jpg",
-            "score": 428.3,
-            "affixes": [
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              },
-              {
-                "id": 10,
-                "name": "Fortified",
-                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
-                "icon": "ability_toughness",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
-                "wowhead_url": "https://wowhead.com/affix=10"
-              },
-              {
-                "id": 147,
-                "name": "Xal'atath's Guile",
-                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
-                "icon": "ability_racial_chillofnight",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
-                "wowhead_url": "https://wowhead.com/affix=147"
-              }
-            ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/11523275-16-voidscar-arena",
-            "spec": {
-              "id": 577,
-              "name": "Havoc",
-              "slug": "havoc",
-              "class_id": 12,
-              "role": "dps",
-              "is_melee": true,
-              "patch": "7.0.0",
-              "ordinal": 0
-            },
-            "role": "dps"
-          },
-          {
             "dungeon": "Den of Nalorakk",
             "short_name": "DON",
             "mythic_level": 16,
@@ -6897,6 +6897,60 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/10650856-17-ruby-life-pools",
+            "spec": {
+              "id": 577,
+              "name": "Havoc",
+              "slug": "havoc",
+              "class_id": 12,
+              "role": "dps",
+              "is_melee": true,
+              "patch": "7.0.0",
+              "ordinal": 0
+            },
+            "role": "dps"
+          },
+          {
+            "dungeon": "Voidscar Arena",
+            "short_name": "VSA",
+            "mythic_level": 17,
+            "completed_at": "2026-09-26T22:45:28.000Z",
+            "clear_time_ms": 1700347,
+            "keystone_run_id": 16037827,
+            "par_time_ms": 1800999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 585,
+            "zone_id": 16425,
+            "zone_expansion_id": 11,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_voidscararena.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/voidscar-arena.jpg",
+            "score": 442.1,
+            "affixes": [
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 147,
+                "name": "Xal'atath's Guile",
+                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
+                "icon": "ability_racial_chillofnight",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
+                "wowhead_url": "https://wowhead.com/affix=147"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/16037827-17-voidscar-arena",
             "spec": {
               "id": 577,
               "name": "Havoc",
@@ -7275,60 +7329,6 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/11523275-16-voidscar-arena",
-            "spec": {
-              "id": 577,
-              "name": "Havoc",
-              "slug": "havoc",
-              "class_id": 12,
-              "role": "dps",
-              "is_melee": true,
-              "patch": "7.0.0",
-              "ordinal": 0
-            },
-            "role": "dps"
-          },
-          {
-            "dungeon": "Voidscar Arena",
-            "short_name": "VSA",
-            "mythic_level": 16,
-            "completed_at": "2026-09-10T23:49:48.000Z",
-            "clear_time_ms": 1645112,
-            "keystone_run_id": 10632213,
-            "par_time_ms": 1800999,
-            "num_keystone_upgrades": 1,
-            "map_challenge_mode_id": 585,
-            "zone_id": 16425,
-            "zone_expansion_id": 11,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_voidscararena.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/voidscar-arena.jpg",
-            "score": 428.2,
-            "affixes": [
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              },
-              {
-                "id": 10,
-                "name": "Fortified",
-                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
-                "icon": "ability_toughness",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
-                "wowhead_url": "https://wowhead.com/affix=10"
-              },
-              {
-                "id": 147,
-                "name": "Xal'atath's Guile",
-                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
-                "icon": "ability_racial_chillofnight",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
-                "wowhead_url": "https://wowhead.com/affix=147"
-              }
-            ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/10632213-16-voidscar-arena",
             "spec": {
               "id": 577,
               "name": "Havoc",

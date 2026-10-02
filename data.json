@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T06:02:42.862845Z",
+  "updated_at": "2026-10-02T13:02:40.722222Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -9480,7 +9480,7 @@
             "segments": {
               "all": {
                 "score": 1329.9,
-                "color": "#9dff82"
+                "color": "#9fff84"
               },
               "dps": {
                 "score": 0,
@@ -9488,7 +9488,7 @@
               },
               "healer": {
                 "score": 1329.9,
-                "color": "#9dff82"
+                "color": "#9fff84"
               },
               "tank": {
                 "score": 0,
@@ -9504,7 +9504,7 @@
               },
               "spec_2": {
                 "score": 1329.9,
-                "color": "#9dff82"
+                "color": "#9fff84"
               },
               "spec_3": {
                 "score": 0,
@@ -11094,11 +11094,11 @@
             "segments": {
               "all": {
                 "score": 2354,
-                "color": "#5ccd77"
+                "color": "#5bcf73"
               },
               "dps": {
                 "score": 599.4,
-                "color": "#e2ffd6"
+                "color": "#e2ffd7"
               },
               "healer": {
                 "score": 0,
@@ -11106,7 +11106,7 @@
               },
               "tank": {
                 "score": 1754.6,
-                "color": "#66ff4a"
+                "color": "#69ff4d"
               },
               "spec_0": {
                 "score": 0,
@@ -11114,11 +11114,11 @@
               },
               "spec_1": {
                 "score": 1754.6,
-                "color": "#66ff4a"
+                "color": "#69ff4d"
               },
               "spec_2": {
                 "score": 599.4,
-                "color": "#e2ffd6"
+                "color": "#e2ffd7"
               },
               "spec_3": {
                 "score": 0,
@@ -13124,7 +13124,7 @@
               },
               "spec_1": {
                 "score": 1633.7,
-                "color": "#79ff5c"
+                "color": "#7bff5f"
               },
               "spec_2": {
                 "score": 3889.6,

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T22:52:12.990662Z",
+  "updated_at": "2026-10-03T01:48:49.796712Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -1088,7 +1088,7 @@
             "segments": {
               "all": {
                 "score": 3527.8,
-                "color": "#d24cad"
+                "color": "#d14baf"
               },
               "dps": {
                 "score": 375.6,
@@ -1096,7 +1096,7 @@
               },
               "healer": {
                 "score": 3527.8,
-                "color": "#d24cad"
+                "color": "#d14baf"
               },
               "tank": {
                 "score": 0,
@@ -1112,7 +1112,7 @@
               },
               "spec_2": {
                 "score": 3527.8,
-                "color": "#d24cad"
+                "color": "#d14baf"
               },
               "spec_3": {
                 "score": 0,
@@ -3174,19 +3174,19 @@
           {
             "season": "season-mn-2",
             "scores": {
-              "all": 3850.3,
+              "all": 3862.5,
               "dps": 0,
               "healer": 0,
-              "tank": 3850.3,
+              "tank": 3862.5,
               "spec_0": 0,
               "spec_1": 0,
-              "spec_2": 3850.3,
+              "spec_2": 3862.5,
               "spec_3": 0
             },
             "segments": {
               "all": {
-                "score": 3850.3,
-                "color": "#f26b5a"
+                "score": 3862.5,
+                "color": "#f16a5f"
               },
               "dps": {
                 "score": 0,
@@ -3197,8 +3197,8 @@
                 "color": "#ffffff"
               },
               "tank": {
-                "score": 3850.3,
-                "color": "#f26b5a"
+                "score": 3862.5,
+                "color": "#f16a5f"
               },
               "spec_0": {
                 "score": 0,
@@ -3209,8 +3209,8 @@
                 "color": "#ffffff"
               },
               "spec_2": {
-                "score": 3850.3,
-                "color": "#f26b5a"
+                "score": 3862.5,
+                "color": "#f16a5f"
               },
               "spec_3": {
                 "score": 0,
@@ -3491,6 +3491,60 @@
             "role": "tank"
           },
           {
+            "dungeon": "Temple of Sethraliss",
+            "short_name": "TOS",
+            "mythic_level": 20,
+            "completed_at": "2026-10-03T00:05:04.000Z",
+            "clear_time_ms": 1916221,
+            "keystone_run_id": 17756514,
+            "par_time_ms": 1920999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 250,
+            "zone_id": 9527,
+            "zone_expansion_id": 7,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_templeofsethraliss.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/temple-of-sethraliss.jpg",
+            "score": 485.1,
+            "affixes": [
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 147,
+                "name": "Xal'atath's Guile",
+                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
+                "icon": "ability_racial_chillofnight",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
+                "wowhead_url": "https://wowhead.com/affix=147"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/17756514-20-temple-of-sethraliss",
+            "spec": {
+              "id": 104,
+              "name": "Guardian",
+              "slug": "guardian",
+              "class_id": 11,
+              "role": "tank",
+              "is_melee": true,
+              "patch": "1.0.0",
+              "ordinal": 2
+            },
+            "role": "tank"
+          },
+          {
             "dungeon": "Kings' Rest",
             "short_name": "KR",
             "mythic_level": 19,
@@ -3532,60 +3586,6 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/17307812-19-kings-rest",
-            "spec": {
-              "id": 104,
-              "name": "Guardian",
-              "slug": "guardian",
-              "class_id": 11,
-              "role": "tank",
-              "is_melee": true,
-              "patch": "1.0.0",
-              "ordinal": 2
-            },
-            "role": "tank"
-          },
-          {
-            "dungeon": "Temple of Sethraliss",
-            "short_name": "TOS",
-            "mythic_level": 19,
-            "completed_at": "2026-09-24T08:13:05.000Z",
-            "clear_time_ms": 1773096,
-            "keystone_run_id": 15158746,
-            "par_time_ms": 1920999,
-            "num_keystone_upgrades": 1,
-            "map_challenge_mode_id": 250,
-            "zone_id": 9527,
-            "zone_expansion_id": 7,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_templeofsethraliss.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/temple-of-sethraliss.jpg",
-            "score": 472.9,
-            "affixes": [
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              },
-              {
-                "id": 10,
-                "name": "Fortified",
-                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
-                "icon": "ability_toughness",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
-                "wowhead_url": "https://wowhead.com/affix=10"
-              },
-              {
-                "id": 147,
-                "name": "Xal'atath's Guile",
-                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
-                "icon": "ability_racial_chillofnight",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
-                "wowhead_url": "https://wowhead.com/affix=147"
-              }
-            ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/15158746-19-temple-of-sethraliss",
             "spec": {
               "id": 104,
               "name": "Guardian",
@@ -3925,6 +3925,60 @@
             "role": "tank"
           },
           {
+            "dungeon": "Temple of Sethraliss",
+            "short_name": "TOS",
+            "mythic_level": 20,
+            "completed_at": "2026-10-03T00:05:04.000Z",
+            "clear_time_ms": 1916221,
+            "keystone_run_id": 17756514,
+            "par_time_ms": 1920999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 250,
+            "zone_id": 9527,
+            "zone_expansion_id": 7,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_templeofsethraliss.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/temple-of-sethraliss.jpg",
+            "score": 485.1,
+            "affixes": [
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 147,
+                "name": "Xal'atath's Guile",
+                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
+                "icon": "ability_racial_chillofnight",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
+                "wowhead_url": "https://wowhead.com/affix=147"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/17756514-20-temple-of-sethraliss",
+            "spec": {
+              "id": 104,
+              "name": "Guardian",
+              "slug": "guardian",
+              "class_id": 11,
+              "role": "tank",
+              "is_melee": true,
+              "patch": "1.0.0",
+              "ordinal": 2
+            },
+            "role": "tank"
+          },
+          {
             "dungeon": "Murder Row",
             "short_name": "MR",
             "mythic_level": 20,
@@ -4128,60 +4182,6 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/16502303-19-altar-of-fangs",
-            "spec": {
-              "id": 104,
-              "name": "Guardian",
-              "slug": "guardian",
-              "class_id": 11,
-              "role": "tank",
-              "is_melee": true,
-              "patch": "1.0.0",
-              "ordinal": 2
-            },
-            "role": "tank"
-          },
-          {
-            "dungeon": "Murder Row",
-            "short_name": "MR",
-            "mythic_level": 19,
-            "completed_at": "2026-09-24T10:02:52.000Z",
-            "clear_time_ms": 1717172,
-            "keystone_run_id": 15173260,
-            "par_time_ms": 2040999,
-            "num_keystone_upgrades": 1,
-            "map_challenge_mode_id": 587,
-            "zone_id": 16091,
-            "zone_expansion_id": 11,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_murderrow.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/murder-row.jpg",
-            "score": 475.9,
-            "affixes": [
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              },
-              {
-                "id": 10,
-                "name": "Fortified",
-                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
-                "icon": "ability_toughness",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
-                "wowhead_url": "https://wowhead.com/affix=10"
-              },
-              {
-                "id": 147,
-                "name": "Xal'atath's Guile",
-                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
-                "icon": "ability_racial_chillofnight",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
-                "wowhead_url": "https://wowhead.com/affix=147"
-              }
-            ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/15173260-19-murder-row",
             "spec": {
               "id": 104,
               "name": "Guardian",
@@ -5284,11 +5284,11 @@
             "segments": {
               "all": {
                 "score": 3541.1,
-                "color": "#d54ea8"
+                "color": "#d44daa"
               },
               "dps": {
                 "score": 3541.1,
-                "color": "#d54ea8"
+                "color": "#d44daa"
               },
               "healer": {
                 "score": 0,
@@ -5304,7 +5304,7 @@
               },
               "spec_1": {
                 "score": 3541.1,
-                "color": "#d54ea8"
+                "color": "#d44daa"
               },
               "spec_2": {
                 "score": 0,
@@ -6333,11 +6333,11 @@
             "segments": {
               "all": {
                 "score": 3571.2,
-                "color": "#d850a2"
+                "color": "#d74fa4"
               },
               "dps": {
                 "score": 3571.2,
-                "color": "#d850a2"
+                "color": "#d74fa4"
               },
               "healer": {
                 "score": 0,
@@ -6349,7 +6349,7 @@
               },
               "spec_0": {
                 "score": 3571.2,
-                "color": "#d850a2"
+                "color": "#d74fa4"
               },
               "spec_1": {
                 "score": 0,
@@ -7382,7 +7382,7 @@
             "segments": {
               "all": {
                 "score": 3741.4,
-                "color": "#e96079"
+                "color": "#e85f7c"
               },
               "dps": {
                 "score": 456.1,
@@ -7394,11 +7394,11 @@
               },
               "tank": {
                 "score": 3741.4,
-                "color": "#e96079"
+                "color": "#e85f7c"
               },
               "spec_0": {
                 "score": 3741.4,
-                "color": "#e96079"
+                "color": "#e85f7c"
               },
               "spec_1": {
                 "score": 0,
@@ -8431,7 +8431,7 @@
             "segments": {
               "all": {
                 "score": 3364.6,
-                "color": "#b83dd6"
+                "color": "#b73cd7"
               },
               "dps": {
                 "score": 0,
@@ -8439,7 +8439,7 @@
               },
               "healer": {
                 "score": 3364.6,
-                "color": "#b83dd6"
+                "color": "#b73cd7"
               },
               "tank": {
                 "score": 0,
@@ -8447,7 +8447,7 @@
               },
               "spec_0": {
                 "score": 3364.6,
-                "color": "#b83dd6"
+                "color": "#b73cd7"
               },
               "spec_1": {
                 "score": 0,
@@ -11094,7 +11094,7 @@
             "segments": {
               "all": {
                 "score": 2354,
-                "color": "#5bcf73"
+                "color": "#5bd072"
               },
               "dps": {
                 "score": 599.4,
@@ -12055,7 +12055,7 @@
             "segments": {
               "all": {
                 "score": 3904.5,
-                "color": "#f6704d"
+                "color": "#f46e52"
               },
               "dps": {
                 "score": 0,
@@ -12067,11 +12067,11 @@
               },
               "tank": {
                 "score": 3904.5,
-                "color": "#f6704d"
+                "color": "#f46e52"
               },
               "spec_0": {
                 "score": 3904.5,
-                "color": "#f6704d"
+                "color": "#f46e52"
               },
               "spec_1": {
                 "score": 0,
@@ -13077,7 +13077,7 @@
         "name": "Мейникс",
         "race": "Gnome",
         "class": "Rogue",
-        "active_spec_name": "Assassination",
+        "active_spec_name": "Subtlety",
         "active_spec_role": "DPS",
         "gender": "female",
         "faction": "alliance",
@@ -13085,7 +13085,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/229/192117733-avatar.jpg?alt=/wow/static/images/2d/avatar/7-1.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-10-02T02:20:59.000Z",
+        "last_crawled_at": "2026-10-02T22:54:30.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Мейникс",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [
@@ -13104,11 +13104,11 @@
             "segments": {
               "all": {
                 "score": 3965.8,
-                "color": "#f9753f"
+                "color": "#f77345"
               },
               "dps": {
                 "score": 3965.8,
-                "color": "#f9753f"
+                "color": "#f77345"
               },
               "healer": {
                 "score": 0,
@@ -13120,7 +13120,7 @@
               },
               "spec_0": {
                 "score": 3965,
-                "color": "#f9753f"
+                "color": "#f77345"
               },
               "spec_1": {
                 "score": 1633.7,
@@ -13128,7 +13128,7 @@
               },
               "spec_2": {
                 "score": 3889.6,
-                "color": "#f46e54"
+                "color": "#f36c59"
               },
               "spec_3": {
                 "score": 0,
@@ -15202,11 +15202,11 @@
             "segments": {
               "all": {
                 "score": 3685.4,
-                "color": "#e55b85"
+                "color": "#e45a88"
               },
               "dps": {
                 "score": 3685.4,
-                "color": "#e55b85"
+                "color": "#e45a88"
               },
               "healer": {
                 "score": 0,
@@ -15218,7 +15218,7 @@
               },
               "spec_0": {
                 "score": 3685.4,
-                "color": "#e55b85"
+                "color": "#e45a88"
               },
               "spec_1": {
                 "score": 0,

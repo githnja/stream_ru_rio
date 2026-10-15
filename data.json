@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T04:03:00.426095Z",
+  "updated_at": "2026-10-15T09:19:10.635942Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -2681,7 +2681,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/199/163149255-avatar.jpg?alt=/wow/static/images/2d/avatar/6-0.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-10-14T04:38:29.000Z",
+        "last_crawled_at": "2026-10-15T08:44:33.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Взбучкаю",
         "profile_banner": "hordebanner13",
         "mythic_plus_scores_by_season": [
@@ -11546,11 +11546,11 @@
         "active_spec_role": "TANK",
         "gender": "male",
         "faction": "horde",
-        "achievement_points": 21415,
+        "achievement_points": 21435,
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/207/186498767-avatar.jpg?alt=/wow/static/images/2d/avatar/35-0.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-10-14T12:05:19.000Z",
+        "last_crawled_at": "2026-10-15T08:07:28.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Рупичка",
         "profile_banner": "hordebanner1",
         "mythic_plus_scores_by_season": [
@@ -12595,11 +12595,11 @@
         "active_spec_role": "DPS",
         "gender": "female",
         "faction": "alliance",
-        "achievement_points": 31010,
+        "achievement_points": 31040,
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/229/192117733-avatar.jpg?alt=/wow/static/images/2d/avatar/7-1.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-10-14T19:36:21.000Z",
+        "last_crawled_at": "2026-10-15T06:46:22.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Мейникс",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [

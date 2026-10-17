@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T16:55:17.594678Z",
+  "updated_at": "2026-10-17T19:08:24.399672Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -4991,11 +4991,11 @@
         "active_spec_role": "DPS",
         "gender": "female",
         "faction": "horde",
-        "achievement_points": 7575,
+        "achievement_points": 7615,
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/177/195424945-avatar.jpg?alt=/wow/static/images/2d/avatar/2-1.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-10-15T18:27:40.000Z",
+        "last_crawled_at": "2026-10-17T16:55:25.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Мидсу",
         "profile_banner": "classbanner_hunter1",
         "mythic_plus_scores_by_season": [

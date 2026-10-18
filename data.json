@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T19:19:59.772028Z",
+  "updated_at": "2026-10-18T21:43:41.478700Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -13871,22 +13871,22 @@
           {
             "season": "season-mn-2",
             "scores": {
-              "all": 4150.4,
-              "dps": 4150.4,
+              "all": 4164.3,
+              "dps": 4164.3,
               "healer": 0,
               "tank": 0,
               "spec_0": 0,
               "spec_1": 0,
-              "spec_2": 4150.4,
+              "spec_2": 4164.3,
               "spec_3": 0
             },
             "segments": {
               "all": {
-                "score": 4150.4,
+                "score": 4164.3,
                 "color": "#fd7c23"
               },
               "dps": {
-                "score": 4150.4,
+                "score": 4164.3,
                 "color": "#fd7c23"
               },
               "healer": {
@@ -13906,7 +13906,7 @@
                 "color": "#ffffff"
               },
               "spec_2": {
-                "score": 4150.4,
+                "score": 4164.3,
                 "color": "#fd7c23"
               },
               "spec_3": {
@@ -13972,6 +13972,60 @@
             "role": "dps"
           },
           {
+            "dungeon": "Murder Row",
+            "short_name": "MR",
+            "mythic_level": 23,
+            "completed_at": "2026-10-18T21:03:39.000Z",
+            "clear_time_ms": 1966625,
+            "keystone_run_id": 21484059,
+            "par_time_ms": 2040999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 587,
+            "zone_id": 16091,
+            "zone_expansion_id": 11,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_murderrow.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/murder-row.jpg",
+            "score": 531.3,
+            "affixes": [
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 147,
+                "name": "Xal'atath's Guile",
+                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
+                "icon": "ability_racial_chillofnight",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
+                "wowhead_url": "https://wowhead.com/affix=147"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/21484059-23-murder-row",
+            "spec": {
+              "id": 269,
+              "name": "Windwalker",
+              "slug": "windwalker",
+              "class_id": 10,
+              "role": "dps",
+              "is_melee": true,
+              "patch": "5.0.0",
+              "ordinal": 2
+            },
+            "role": "dps"
+          },
+          {
             "dungeon": "The Blinding Vale",
             "short_name": "BV",
             "mythic_level": 22,
@@ -14013,60 +14067,6 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/20810041-22-the-blinding-vale",
-            "spec": {
-              "id": 269,
-              "name": "Windwalker",
-              "slug": "windwalker",
-              "class_id": 10,
-              "role": "dps",
-              "is_melee": true,
-              "patch": "5.0.0",
-              "ordinal": 2
-            },
-            "role": "dps"
-          },
-          {
-            "dungeon": "Murder Row",
-            "short_name": "MR",
-            "mythic_level": 22,
-            "completed_at": "2026-10-08T23:21:32.000Z",
-            "clear_time_ms": 1907581,
-            "keystone_run_id": 19294622,
-            "par_time_ms": 2040999,
-            "num_keystone_upgrades": 1,
-            "map_challenge_mode_id": 587,
-            "zone_id": 16091,
-            "zone_expansion_id": 11,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_murderrow.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/murder-row.jpg",
-            "score": 517.4,
-            "affixes": [
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              },
-              {
-                "id": 10,
-                "name": "Fortified",
-                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
-                "icon": "ability_toughness",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
-                "wowhead_url": "https://wowhead.com/affix=10"
-              },
-              {
-                "id": 147,
-                "name": "Xal'atath's Guile",
-                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
-                "icon": "ability_racial_chillofnight",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
-                "wowhead_url": "https://wowhead.com/affix=147"
-              }
-            ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/19294622-22-murder-row",
             "spec": {
               "id": 269,
               "name": "Windwalker",
@@ -14393,6 +14393,60 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/21021396-23-den-of-nalorakk",
+            "spec": {
+              "id": 269,
+              "name": "Windwalker",
+              "slug": "windwalker",
+              "class_id": 10,
+              "role": "dps",
+              "is_melee": true,
+              "patch": "5.0.0",
+              "ordinal": 2
+            },
+            "role": "dps"
+          },
+          {
+            "dungeon": "Murder Row",
+            "short_name": "MR",
+            "mythic_level": 23,
+            "completed_at": "2026-10-18T21:03:39.000Z",
+            "clear_time_ms": 1966625,
+            "keystone_run_id": 21484059,
+            "par_time_ms": 2040999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 587,
+            "zone_id": 16091,
+            "zone_expansion_id": 11,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_murderrow.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/murder-row.jpg",
+            "score": 531.3,
+            "affixes": [
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 147,
+                "name": "Xal'atath's Guile",
+                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
+                "icon": "ability_racial_chillofnight",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
+                "wowhead_url": "https://wowhead.com/affix=147"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/21484059-23-murder-row",
             "spec": {
               "id": 269,
               "name": "Windwalker",
@@ -14825,60 +14879,6 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/19761036-22-den-of-nalorakk",
-            "spec": {
-              "id": 269,
-              "name": "Windwalker",
-              "slug": "windwalker",
-              "class_id": 10,
-              "role": "dps",
-              "is_melee": true,
-              "patch": "5.0.0",
-              "ordinal": 2
-            },
-            "role": "dps"
-          },
-          {
-            "dungeon": "Den of Nalorakk",
-            "short_name": "DON",
-            "mythic_level": 22,
-            "completed_at": "2026-10-07T19:03:24.000Z",
-            "clear_time_ms": 1709382,
-            "keystone_run_id": 19037341,
-            "par_time_ms": 1920999,
-            "num_keystone_upgrades": 1,
-            "map_challenge_mode_id": 586,
-            "zone_id": 16368,
-            "zone_expansion_id": 11,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_proveyourworth.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/den-of-nalorakk.jpg",
-            "score": 519.1,
-            "affixes": [
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              },
-              {
-                "id": 10,
-                "name": "Fortified",
-                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
-                "icon": "ability_toughness",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
-                "wowhead_url": "https://wowhead.com/affix=10"
-              },
-              {
-                "id": 147,
-                "name": "Xal'atath's Guile",
-                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
-                "icon": "ability_racial_chillofnight",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
-                "wowhead_url": "https://wowhead.com/affix=147"
-              }
-            ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/19037341-22-den-of-nalorakk",
             "spec": {
               "id": 269,
               "name": "Windwalker",

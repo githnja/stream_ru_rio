@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T00:01:40.730196Z",
+  "updated_at": "2026-10-19T05:07:51.207074Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -39,7 +39,7 @@
             "segments": {
               "all": {
                 "score": 3501.2,
-                "color": "#c342c7"
+                "color": "#c040cc"
               },
               "dps": {
                 "score": 0,
@@ -51,11 +51,11 @@
               },
               "tank": {
                 "score": 3501.2,
-                "color": "#c342c7"
+                "color": "#c040cc"
               },
               "spec_0": {
                 "score": 3501.2,
-                "color": "#c342c7"
+                "color": "#c040cc"
               },
               "spec_1": {
                 "score": 0,
@@ -1088,7 +1088,7 @@
             "segments": {
               "all": {
                 "score": 3527.8,
-                "color": "#c744c2"
+                "color": "#c442c6"
               },
               "dps": {
                 "score": 375.6,
@@ -1096,7 +1096,7 @@
               },
               "healer": {
                 "score": 3527.8,
-                "color": "#c744c2"
+                "color": "#c442c6"
               },
               "tank": {
                 "score": 0,
@@ -1112,7 +1112,7 @@
               },
               "spec_2": {
                 "score": 3527.8,
-                "color": "#c744c2"
+                "color": "#c442c6"
               },
               "spec_3": {
                 "score": 0,
@@ -2137,7 +2137,7 @@
             "segments": {
               "all": {
                 "score": 3787,
-                "color": "#e55b85"
+                "color": "#e45a88"
               },
               "dps": {
                 "score": 367,
@@ -2149,11 +2149,11 @@
               },
               "tank": {
                 "score": 3787,
-                "color": "#e55b85"
+                "color": "#e45a88"
               },
               "spec_0": {
                 "score": 3787,
-                "color": "#e55b85"
+                "color": "#e45a88"
               },
               "spec_1": {
                 "score": 0,
@@ -2916,7 +2916,7 @@
             "segments": {
               "all": {
                 "score": 3901.6,
-                "color": "#ee6669"
+                "color": "#ee656b"
               },
               "dps": {
                 "score": 0,
@@ -2928,7 +2928,7 @@
               },
               "tank": {
                 "score": 3901.6,
-                "color": "#ee6669"
+                "color": "#ee656b"
               },
               "spec_0": {
                 "score": 0,
@@ -2940,7 +2940,7 @@
               },
               "spec_2": {
                 "score": 3901.6,
-                "color": "#ee6669"
+                "color": "#ee656b"
               },
               "spec_3": {
                 "score": 0,
@@ -3965,11 +3965,11 @@
             "segments": {
               "all": {
                 "score": 4016.9,
-                "color": "#f56f51"
+                "color": "#f46e52"
               },
               "dps": {
                 "score": 4016.9,
-                "color": "#f56f51"
+                "color": "#f46e52"
               },
               "healer": {
                 "score": 0,
@@ -3989,7 +3989,7 @@
               },
               "spec_2": {
                 "score": 4016.9,
-                "color": "#f56f51"
+                "color": "#f46e52"
               },
               "spec_3": {
                 "score": 0,
@@ -5014,11 +5014,11 @@
             "segments": {
               "all": {
                 "score": 3568.6,
-                "color": "#cd48b7"
+                "color": "#cb47bb"
               },
               "dps": {
                 "score": 3568.6,
-                "color": "#cd48b7"
+                "color": "#cb47bb"
               },
               "healer": {
                 "score": 0,
@@ -5034,7 +5034,7 @@
               },
               "spec_1": {
                 "score": 3568.6,
-                "color": "#cd48b7"
+                "color": "#cb47bb"
               },
               "spec_2": {
                 "score": 0,
@@ -6044,30 +6044,30 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/draenor/64/124938560-avatar.jpg?alt=/wow/static/images/2d/avatar/10-1.jpg",
         "region": "eu",
         "realm": "Draenor",
-        "last_crawled_at": "2026-10-18T02:01:31.000Z",
+        "last_crawled_at": "2026-10-19T02:54:41.000Z",
         "profile_url": "https://raider.io/characters/eu/draenor/Nevodkan",
         "profile_banner": "hordebanner2",
         "mythic_plus_scores_by_season": [
           {
             "season": "season-mn-2",
             "scores": {
-              "all": 3813,
-              "dps": 3813,
+              "all": 3830.5,
+              "dps": 3830.5,
               "healer": 0,
               "tank": 0,
-              "spec_0": 3813,
+              "spec_0": 3830.5,
               "spec_1": 0,
               "spec_2": 0,
               "spec_3": 0
             },
             "segments": {
               "all": {
-                "score": 3813,
-                "color": "#e75d7f"
+                "score": 3830.5,
+                "color": "#e85f7c"
               },
               "dps": {
-                "score": 3813,
-                "color": "#e75d7f"
+                "score": 3830.5,
+                "color": "#e85f7c"
               },
               "healer": {
                 "score": 0,
@@ -6078,8 +6078,8 @@
                 "color": "#ffffff"
               },
               "spec_0": {
-                "score": 3813,
-                "color": "#e75d7f"
+                "score": 3830.5,
+                "color": "#e85f7c"
               },
               "spec_1": {
                 "score": 0,
@@ -6139,6 +6139,60 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/21491551-20-the-blinding-vale",
+            "spec": {
+              "id": 577,
+              "name": "Havoc",
+              "slug": "havoc",
+              "class_id": 12,
+              "role": "dps",
+              "is_melee": true,
+              "patch": "7.0.0",
+              "ordinal": 0
+            },
+            "role": "dps"
+          },
+          {
+            "dungeon": "Temple of Sethraliss",
+            "short_name": "TOS",
+            "mythic_level": 20,
+            "completed_at": "2026-10-19T02:21:21.000Z",
+            "clear_time_ms": 1871980,
+            "keystone_run_id": 21520130,
+            "par_time_ms": 1920999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 250,
+            "zone_id": 9527,
+            "zone_expansion_id": 7,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_templeofsethraliss.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/temple-of-sethraliss.jpg",
+            "score": 485.9,
+            "affixes": [
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 147,
+                "name": "Xal'atath's Guile",
+                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
+                "icon": "ability_racial_chillofnight",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
+                "wowhead_url": "https://wowhead.com/affix=147"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/21520130-20-temple-of-sethraliss",
             "spec": {
               "id": 577,
               "name": "Havoc",
@@ -6314,6 +6368,60 @@
             "role": "dps"
           },
           {
+            "dungeon": "Altar of Fangs",
+            "short_name": "AOF",
+            "mythic_level": 19,
+            "completed_at": "2026-10-19T00:08:18.000Z",
+            "clear_time_ms": 1576469,
+            "keystone_run_id": 21506439,
+            "par_time_ms": 1800999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 588,
+            "zone_id": 16865,
+            "zone_expansion_id": 11,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_altaroffangs.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/altar-of-fangs.jpg",
+            "score": 474.7,
+            "affixes": [
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 147,
+                "name": "Xal'atath's Guile",
+                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
+                "icon": "ability_racial_chillofnight",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
+                "wowhead_url": "https://wowhead.com/affix=147"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/21506439-19-altar-of-fangs",
+            "spec": {
+              "id": 577,
+              "name": "Havoc",
+              "slug": "havoc",
+              "class_id": 12,
+              "role": "dps",
+              "is_melee": true,
+              "patch": "7.0.0",
+              "ordinal": 0
+            },
+            "role": "dps"
+          },
+          {
             "dungeon": "Den of Nalorakk",
             "short_name": "DON",
             "mythic_level": 19,
@@ -6409,114 +6517,6 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/19312221-19-ruby-life-pools",
-            "spec": {
-              "id": 577,
-              "name": "Havoc",
-              "slug": "havoc",
-              "class_id": 12,
-              "role": "dps",
-              "is_melee": true,
-              "patch": "7.0.0",
-              "ordinal": 0
-            },
-            "role": "dps"
-          },
-          {
-            "dungeon": "Altar of Fangs",
-            "short_name": "AOF",
-            "mythic_level": 19,
-            "completed_at": "2026-10-16T01:13:52.000Z",
-            "clear_time_ms": 1719867,
-            "keystone_run_id": 20838907,
-            "par_time_ms": 1800999,
-            "num_keystone_upgrades": 1,
-            "map_challenge_mode_id": 588,
-            "zone_id": 16865,
-            "zone_expansion_id": 11,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_altaroffangs.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/altar-of-fangs.jpg",
-            "score": 471.7,
-            "affixes": [
-              {
-                "id": 10,
-                "name": "Fortified",
-                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
-                "icon": "ability_toughness",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
-                "wowhead_url": "https://wowhead.com/affix=10"
-              },
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              },
-              {
-                "id": 147,
-                "name": "Xal'atath's Guile",
-                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
-                "icon": "ability_racial_chillofnight",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
-                "wowhead_url": "https://wowhead.com/affix=147"
-              }
-            ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/20838907-19-altar-of-fangs",
-            "spec": {
-              "id": 577,
-              "name": "Havoc",
-              "slug": "havoc",
-              "class_id": 12,
-              "role": "dps",
-              "is_melee": true,
-              "patch": "7.0.0",
-              "ordinal": 0
-            },
-            "role": "dps"
-          },
-          {
-            "dungeon": "Temple of Sethraliss",
-            "short_name": "TOS",
-            "mythic_level": 19,
-            "completed_at": "2026-09-29T03:31:36.000Z",
-            "clear_time_ms": 1847340,
-            "keystone_run_id": 16702921,
-            "par_time_ms": 1920999,
-            "num_keystone_upgrades": 1,
-            "map_challenge_mode_id": 250,
-            "zone_id": 9527,
-            "zone_expansion_id": 7,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_templeofsethraliss.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/temple-of-sethraliss.jpg",
-            "score": 471.4,
-            "affixes": [
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              },
-              {
-                "id": 10,
-                "name": "Fortified",
-                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
-                "icon": "ability_toughness",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
-                "wowhead_url": "https://wowhead.com/affix=10"
-              },
-              {
-                "id": 147,
-                "name": "Xal'atath's Guile",
-                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
-                "icon": "ability_racial_chillofnight",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
-                "wowhead_url": "https://wowhead.com/affix=147"
-              }
-            ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/16702921-19-temple-of-sethraliss",
             "spec": {
               "id": 577,
               "name": "Havoc",
@@ -6640,6 +6640,60 @@
             "role": "dps"
           },
           {
+            "dungeon": "Temple of Sethraliss",
+            "short_name": "TOS",
+            "mythic_level": 20,
+            "completed_at": "2026-10-19T02:21:21.000Z",
+            "clear_time_ms": 1871980,
+            "keystone_run_id": 21520130,
+            "par_time_ms": 1920999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 250,
+            "zone_id": 9527,
+            "zone_expansion_id": 7,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_dungeon_templeofsethraliss.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion7/base/temple-of-sethraliss.jpg",
+            "score": 485.9,
+            "affixes": [
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 147,
+                "name": "Xal'atath's Guile",
+                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
+                "icon": "ability_racial_chillofnight",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
+                "wowhead_url": "https://wowhead.com/affix=147"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/21520130-20-temple-of-sethraliss",
+            "spec": {
+              "id": 577,
+              "name": "Havoc",
+              "slug": "havoc",
+              "class_id": 12,
+              "role": "dps",
+              "is_melee": true,
+              "patch": "7.0.0",
+              "ordinal": 0
+            },
+            "role": "dps"
+          },
+          {
             "dungeon": "Den of Nalorakk",
             "short_name": "DON",
             "mythic_level": 20,
@@ -6735,6 +6789,60 @@
               }
             ],
             "url": "https://raider.io/mythic-plus-runs/season-mn-2/19312221-19-ruby-life-pools",
+            "spec": {
+              "id": 577,
+              "name": "Havoc",
+              "slug": "havoc",
+              "class_id": 12,
+              "role": "dps",
+              "is_melee": true,
+              "patch": "7.0.0",
+              "ordinal": 0
+            },
+            "role": "dps"
+          },
+          {
+            "dungeon": "Altar of Fangs",
+            "short_name": "AOF",
+            "mythic_level": 19,
+            "completed_at": "2026-10-19T00:08:18.000Z",
+            "clear_time_ms": 1576469,
+            "keystone_run_id": 21506439,
+            "par_time_ms": 1800999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 588,
+            "zone_id": 16865,
+            "zone_expansion_id": 11,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_altaroffangs.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/altar-of-fangs.jpg",
+            "score": 474.7,
+            "affixes": [
+              {
+                "id": 10,
+                "name": "Fortified",
+                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                "icon": "ability_toughness",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
+                "wowhead_url": "https://wowhead.com/affix=10"
+              },
+              {
+                "id": 9,
+                "name": "Tyrannical",
+                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                "icon": "achievement_boss_archaedas",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
+                "wowhead_url": "https://wowhead.com/affix=9"
+              },
+              {
+                "id": 147,
+                "name": "Xal'atath's Guile",
+                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
+                "icon": "ability_racial_chillofnight",
+                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
+                "wowhead_url": "https://wowhead.com/affix=147"
+              }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/21506439-19-altar-of-fangs",
             "spec": {
               "id": 577,
               "name": "Havoc",
@@ -6962,114 +7070,6 @@
               "ordinal": 0
             },
             "role": "dps"
-          },
-          {
-            "dungeon": "The Blinding Vale",
-            "short_name": "BV",
-            "mythic_level": 19,
-            "completed_at": "2026-10-09T22:43:57.000Z",
-            "clear_time_ms": 1744821,
-            "keystone_run_id": 19628489,
-            "par_time_ms": 1800999,
-            "num_keystone_upgrades": 1,
-            "map_challenge_mode_id": 584,
-            "zone_id": 16359,
-            "zone_expansion_id": 11,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_lightbloom.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/the-blinding-vale.jpg",
-            "score": 471.1,
-            "affixes": [
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              },
-              {
-                "id": 10,
-                "name": "Fortified",
-                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
-                "icon": "ability_toughness",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
-                "wowhead_url": "https://wowhead.com/affix=10"
-              },
-              {
-                "id": 147,
-                "name": "Xal'atath's Guile",
-                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
-                "icon": "ability_racial_chillofnight",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
-                "wowhead_url": "https://wowhead.com/affix=147"
-              }
-            ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/19628489-19-the-blinding-vale",
-            "spec": {
-              "id": 577,
-              "name": "Havoc",
-              "slug": "havoc",
-              "class_id": 12,
-              "role": "dps",
-              "is_melee": true,
-              "patch": "7.0.0",
-              "ordinal": 0
-            },
-            "role": "dps"
-          },
-          {
-            "dungeon": "The Blinding Vale",
-            "short_name": "BV",
-            "mythic_level": 19,
-            "completed_at": "2026-10-13T00:52:25.000Z",
-            "clear_time_ms": 1783928,
-            "keystone_run_id": 20338782,
-            "par_time_ms": 1800999,
-            "num_keystone_upgrades": 1,
-            "map_challenge_mode_id": 584,
-            "zone_id": 16359,
-            "zone_expansion_id": 11,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_lightbloom.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/the-blinding-vale.jpg",
-            "score": 470.3,
-            "affixes": [
-              {
-                "id": 9,
-                "name": "Tyrannical",
-                "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
-                "icon": "achievement_boss_archaedas",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/achievement_boss_archaedas.jpg",
-                "wowhead_url": "https://wowhead.com/affix=9"
-              },
-              {
-                "id": 10,
-                "name": "Fortified",
-                "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
-                "icon": "ability_toughness",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_toughness.jpg",
-                "wowhead_url": "https://wowhead.com/affix=10"
-              },
-              {
-                "id": 147,
-                "name": "Xal'atath's Guile",
-                "description": "Xal'atath betrays players, revoking her bargains while making deaths subtract 15 seconds from time remaining.",
-                "icon": "ability_racial_chillofnight",
-                "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/ability_racial_chillofnight.jpg",
-                "wowhead_url": "https://wowhead.com/affix=147"
-              }
-            ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/20338782-19-the-blinding-vale",
-            "spec": {
-              "id": 577,
-              "name": "Havoc",
-              "slug": "havoc",
-              "class_id": 12,
-              "role": "dps",
-              "is_melee": true,
-              "patch": "7.0.0",
-              "ordinal": 0
-            },
-            "role": "dps"
           }
         ]
       }
@@ -7112,7 +7112,7 @@
             "segments": {
               "all": {
                 "score": 3812.9,
-                "color": "#e75d7f"
+                "color": "#e65c82"
               },
               "dps": {
                 "score": 914,
@@ -7124,11 +7124,11 @@
               },
               "tank": {
                 "score": 3812.9,
-                "color": "#e75d7f"
+                "color": "#e65c82"
               },
               "spec_0": {
                 "score": 3812.9,
-                "color": "#e75d7f"
+                "color": "#e65c82"
               },
               "spec_1": {
                 "score": 0,
@@ -8138,11 +8138,11 @@
         "active_spec_role": "HEALING",
         "gender": "female",
         "faction": "alliance",
-        "achievement_points": 13180,
+        "achievement_points": 13205,
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/twisting-nether/243/196738035-avatar.jpg?alt=/wow/static/images/2d/avatar/30-1.jpg",
         "region": "eu",
         "realm": "Twisting Nether",
-        "last_crawled_at": "2026-10-18T04:56:27.000Z",
+        "last_crawled_at": "2026-10-19T03:33:44.000Z",
         "profile_url": "https://raider.io/characters/eu/twisting-nether/Murlgmrlgrlg",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [
@@ -8161,7 +8161,7 @@
             "segments": {
               "all": {
                 "score": 3364.6,
-                "color": "#a837e8"
+                "color": "#a335ee"
               },
               "dps": {
                 "score": 0,
@@ -8169,7 +8169,7 @@
               },
               "healer": {
                 "score": 3364.6,
-                "color": "#a837e8"
+                "color": "#a335ee"
               },
               "tank": {
                 "score": 0,
@@ -8177,7 +8177,7 @@
               },
               "spec_0": {
                 "score": 3364.6,
-                "color": "#a837e8"
+                "color": "#a335ee"
               },
               "spec_1": {
                 "score": 0,
@@ -9775,7 +9775,7 @@
             "segments": {
               "all": {
                 "score": 3652.3,
-                "color": "#d64ea6"
+                "color": "#d44daa"
               },
               "dps": {
                 "score": 0,
@@ -9783,7 +9783,7 @@
               },
               "healer": {
                 "score": 3652.3,
-                "color": "#d64ea6"
+                "color": "#d44daa"
               },
               "tank": {
                 "score": 0,
@@ -9791,7 +9791,7 @@
               },
               "spec_0": {
                 "score": 3652.3,
-                "color": "#d64ea6"
+                "color": "#d44daa"
               },
               "spec_1": {
                 "score": 0,
@@ -11785,7 +11785,7 @@
             "segments": {
               "all": {
                 "score": 3931.1,
-                "color": "#f06863"
+                "color": "#f06765"
               },
               "dps": {
                 "score": 0,
@@ -11797,11 +11797,11 @@
               },
               "tank": {
                 "score": 3931.1,
-                "color": "#f06863"
+                "color": "#f06765"
               },
               "spec_0": {
                 "score": 3931.1,
-                "color": "#f06863"
+                "color": "#f06765"
               },
               "spec_1": {
                 "score": 0,
@@ -12834,11 +12834,11 @@
             "segments": {
               "all": {
                 "score": 4035.1,
-                "color": "#f6714a"
+                "color": "#f6704c"
               },
               "dps": {
                 "score": 4035.1,
-                "color": "#f6714a"
+                "color": "#f6704c"
               },
               "healer": {
                 "score": 0,
@@ -12850,15 +12850,15 @@
               },
               "spec_0": {
                 "score": 4034.6,
-                "color": "#f6714a"
+                "color": "#f6704c"
               },
               "spec_1": {
                 "score": 3296.7,
-                "color": "#9c3eed"
+                "color": "#9544eb"
               },
               "spec_2": {
                 "score": 3889.6,
-                "color": "#ed646f"
+                "color": "#ec6371"
               },
               "spec_3": {
                 "score": 0,
@@ -14932,11 +14932,11 @@
             "segments": {
               "all": {
                 "score": 4028.2,
-                "color": "#f6714a"
+                "color": "#f6704c"
               },
               "dps": {
                 "score": 4028.2,
-                "color": "#f6714a"
+                "color": "#f6704c"
               },
               "healer": {
                 "score": 0,
@@ -14948,7 +14948,7 @@
               },
               "spec_0": {
                 "score": 4028.2,
-                "color": "#f6714a"
+                "color": "#f6704c"
               },
               "spec_1": {
                 "score": 0,

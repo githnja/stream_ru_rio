@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T18:11:54.998000Z",
+  "updated_at": "2026-10-21T21:54:56.171125Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -4216,7 +4216,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/151/193857943-avatar.jpg?alt=/wow/static/images/2d/avatar/4-1.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-10-21T16:50:50.000Z",
+        "last_crawled_at": "2026-10-21T20:03:52.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Темканайк",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [
@@ -13081,11 +13081,11 @@
         "active_spec_role": "DPS",
         "gender": "female",
         "faction": "alliance",
-        "achievement_points": 31070,
+        "achievement_points": 31200,
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/229/192117733-avatar.jpg?alt=/wow/static/images/2d/avatar/7-1.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-10-19T21:22:39.000Z",
+        "last_crawled_at": "2026-10-21T20:15:49.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Мейникс",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [

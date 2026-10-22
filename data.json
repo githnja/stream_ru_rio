@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T21:54:56.171125Z",
+  "updated_at": "2026-10-22T00:31:15.021476Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -4216,7 +4216,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/151/193857943-avatar.jpg?alt=/wow/static/images/2d/avatar/4-1.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-10-21T20:03:52.000Z",
+        "last_crawled_at": "2026-10-21T22:53:05.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Темканайк",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [
@@ -6310,11 +6310,11 @@
         "active_spec_role": "DPS",
         "gender": "female",
         "faction": "horde",
-        "achievement_points": 18880,
+        "achievement_points": 18885,
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/draenor/64/124938560-avatar.jpg?alt=/wow/static/images/2d/avatar/10-1.jpg",
         "region": "eu",
         "realm": "Draenor",
-        "last_crawled_at": "2026-10-19T02:54:41.000Z",
+        "last_crawled_at": "2026-10-21T23:09:42.000Z",
         "profile_url": "https://raider.io/characters/eu/draenor/Nevodkan",
         "profile_banner": "hordebanner2",
         "mythic_plus_scores_by_season": [

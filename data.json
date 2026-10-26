@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T01:35:44.184385Z",
+  "updated_at": "2026-10-26T07:36:53.848309Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -3167,7 +3167,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/199/163149255-avatar.jpg?alt=/wow/static/images/2d/avatar/6-0.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-10-25T05:43:44.000Z",
+        "last_crawled_at": "2026-10-26T07:04:05.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Взбучкаю",
         "profile_banner": "hordebanner13",
         "mythic_plus_scores_by_season": [
@@ -5261,11 +5261,11 @@
         "active_spec_role": "DPS",
         "gender": "female",
         "faction": "horde",
-        "achievement_points": 7675,
+        "achievement_points": 7715,
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/177/195424945-avatar.jpg?alt=/wow/static/images/2d/avatar/2-1.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-10-24T09:27:53.000Z",
+        "last_crawled_at": "2026-10-26T06:53:52.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Мидсу",
         "profile_banner": "classbanner_hunter1",
         "mythic_plus_scores_by_season": [
@@ -6314,7 +6314,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/draenor/64/124938560-avatar.jpg?alt=/wow/static/images/2d/avatar/10-1.jpg",
         "region": "eu",
         "realm": "Draenor",
-        "last_crawled_at": "2026-10-25T09:39:46.000Z",
+        "last_crawled_at": "2026-10-26T03:01:46.000Z",
         "profile_url": "https://raider.io/characters/eu/draenor/Nevodkan",
         "profile_banner": "hordebanner2",
         "mythic_plus_scores_by_season": [
@@ -7288,20 +7288,20 @@
             "role": "dps"
           },
           {
-            "dungeon": "Den of Nalorakk",
-            "short_name": "DON",
+            "dungeon": "Voidscar Arena",
+            "short_name": "VSA",
             "mythic_level": 20,
-            "completed_at": "2026-10-25T00:44:52.000Z",
-            "clear_time_ms": 1866837,
-            "keystone_run_id": 22870586,
-            "par_time_ms": 1920999,
+            "completed_at": "2026-10-26T02:00:12.000Z",
+            "clear_time_ms": 1771154,
+            "keystone_run_id": 23067795,
+            "par_time_ms": 1800999,
             "num_keystone_upgrades": 1,
-            "map_challenge_mode_id": 586,
-            "zone_id": 16368,
+            "map_challenge_mode_id": 585,
+            "zone_id": 16425,
             "zone_expansion_id": 11,
-            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_proveyourworth.jpg",
-            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/den-of-nalorakk.jpg",
-            "score": 486,
+            "icon_url": "https://cdn.raiderio.net/images/wow/icons/large/inv_achievement_dungeon_voidscararena.jpg",
+            "background_image_url": "https://cdn.raiderio.net/images/dungeons/expansion11/base/voidscar-arena.jpg",
+            "score": 485.6,
             "affixes": [
               {
                 "id": 9,
@@ -7328,7 +7328,7 @@
                 "wowhead_url": "https://wowhead.com/affix=147"
               }
             ],
-            "url": "https://raider.io/mythic-plus-runs/season-mn-2/22870586-20-den-of-nalorakk",
+            "url": "https://raider.io/mythic-plus-runs/season-mn-2/23067795-20-voidscar-arena",
             "spec": {
               "id": 577,
               "name": "Havoc",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T01:23:07.629061Z",
+  "updated_at": "2026-11-02T08:04:56.900365Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -2118,7 +2118,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/silvermoon/249/226356473-avatar.jpg?alt=/wow/static/images/2d/avatar/4-1.jpg",
         "region": "eu",
         "realm": "Silvermoon",
-        "last_crawled_at": "2026-11-01T13:36:11.000Z",
+        "last_crawled_at": "2026-11-02T03:36:10.000Z",
         "profile_url": "https://raider.io/characters/eu/silvermoon/Shotta",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [
@@ -3946,7 +3946,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/151/193857943-avatar.jpg?alt=/wow/static/images/2d/avatar/4-1.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-11-01T05:20:19.000Z",
+        "last_crawled_at": "2026-11-02T06:38:16.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Темканайк",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [
@@ -11225,7 +11225,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/207/186498767-avatar.jpg?alt=/wow/static/images/2d/avatar/35-0.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-10-31T15:31:09.000Z",
+        "last_crawled_at": "2026-11-02T03:37:24.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Рупичка",
         "profile_banner": "hordebanner1",
         "mythic_plus_scores_by_season": [
@@ -13323,7 +13323,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/192/190324928-avatar.jpg?alt=/wow/static/images/2d/avatar/4-1.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-10-30T21:52:09.000Z",
+        "last_crawled_at": "2026-11-02T04:41:09.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Эльпочита",
         "profile_banner": "classbanner_monk1",
         "mythic_plus_scores_by_season": [

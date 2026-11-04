@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T02:35:40.902334Z",
+  "updated_at": "2026-11-04T18:31:34.925077Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -2118,7 +2118,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/silvermoon/249/226356473-avatar.jpg?alt=/wow/static/images/2d/avatar/4-1.jpg",
         "region": "eu",
         "realm": "Silvermoon",
-        "last_crawled_at": "2026-11-02T03:36:10.000Z",
+        "last_crawled_at": "2026-11-04T11:28:22.000Z",
         "profile_url": "https://raider.io/characters/eu/silvermoon/Shotta",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [
@@ -3163,11 +3163,11 @@
         "active_spec_role": "TANK",
         "gender": "female",
         "faction": "alliance",
-        "achievement_points": 16375,
+        "achievement_points": 16385,
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/211/197380307-avatar.jpg?alt=/wow/static/images/2d/avatar/4-1.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-10-29T06:24:54.000Z",
+        "last_crawled_at": "2026-11-04T11:02:20.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Взбучкаю",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [
@@ -4000,7 +4000,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/151/193857943-avatar.jpg?alt=/wow/static/images/2d/avatar/4-1.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-11-03T06:39:19.000Z",
+        "last_crawled_at": "2026-11-04T13:31:31.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Темканайк",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [
@@ -5049,7 +5049,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/177/195424945-avatar.jpg?alt=/wow/static/images/2d/avatar/2-1.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-11-03T18:47:14.000Z",
+        "last_crawled_at": "2026-11-04T09:23:14.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Мидсу",
         "profile_banner": "classbanner_hunter1",
         "mythic_plus_scores_by_season": [

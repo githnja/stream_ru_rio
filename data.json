@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T07:41:17.826572Z",
+  "updated_at": "2026-11-15T15:30:18.573229Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -13593,7 +13593,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/howling-fjord/192/190324928-avatar.jpg?alt=/wow/static/images/2d/avatar/4-1.jpg",
         "region": "eu",
         "realm": "Howling Fjord",
-        "last_crawled_at": "2026-11-11T02:29:47.000Z",
+        "last_crawled_at": "2026-11-15T10:05:05.000Z",
         "profile_url": "https://raider.io/characters/eu/howling-fjord/Эльпочита",
         "profile_banner": "classbanner_monk1",
         "mythic_plus_scores_by_season": [

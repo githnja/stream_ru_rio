@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T10:33:29.531398Z",
+  "updated_at": "2026-11-18T19:17:45.381765Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -2114,11 +2114,11 @@
         "active_spec_role": "TANK",
         "gender": "female",
         "faction": "alliance",
-        "achievement_points": 11765,
+        "achievement_points": 11775,
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/silvermoon/249/226356473-avatar.jpg?alt=/wow/static/images/2d/avatar/4-1.jpg",
         "region": "eu",
         "realm": "Silvermoon",
-        "last_crawled_at": "2026-11-04T11:28:22.000Z",
+        "last_crawled_at": "2026-11-18T11:32:38.000Z",
         "profile_url": "https://raider.io/characters/eu/silvermoon/Shotta",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [
@@ -8412,7 +8412,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/twisting-nether/134/197354886-avatar.jpg?alt=/wow/static/images/2d/avatar/10-1.jpg",
         "region": "eu",
         "realm": "Twisting Nether",
-        "last_crawled_at": "2026-11-17T20:10:43.000Z",
+        "last_crawled_at": "2026-11-18T15:32:02.000Z",
         "profile_url": "https://raider.io/characters/eu/twisting-nether/Murlgmrlgrlg",
         "profile_banner": "hordebanner1",
         "mythic_plus_scores_by_season": [

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T18:32:31.724412Z",
+  "updated_at": "2026-11-20T01:06:39.999182Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -7355,15 +7355,15 @@
         "name": "Northur",
         "race": "Mag'har Orc",
         "class": "Death Knight",
-        "active_spec_name": "Blood",
-        "active_spec_role": "TANK",
+        "active_spec_name": "Frost",
+        "active_spec_role": "DPS",
         "gender": "male",
         "faction": "horde",
         "achievement_points": 9805,
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/tarren-mill/76/186624332-avatar.jpg?alt=/wow/static/images/2d/avatar/36-0.jpg",
         "region": "eu",
         "realm": "Tarren Mill",
-        "last_crawled_at": "2026-11-17T16:34:26.000Z",
+        "last_crawled_at": "2026-11-19T19:06:10.000Z",
         "profile_url": "https://raider.io/characters/eu/tarren-mill/Northur",
         "profile_banner": "alliancebanner1",
         "mythic_plus_scores_by_season": [

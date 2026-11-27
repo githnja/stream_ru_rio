@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T01:52:49.288800Z",
+  "updated_at": "2026-11-27T10:41:04.322305Z",
   "streamers": [
     {
       "twitch": "Khnja",
@@ -6314,7 +6314,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/draenor/64/124938560-avatar.jpg?alt=/wow/static/images/2d/avatar/10-1.jpg",
         "region": "eu",
         "realm": "Draenor",
-        "last_crawled_at": "2026-11-24T00:04:41.000Z",
+        "last_crawled_at": "2026-11-27T05:51:38.000Z",
         "profile_url": "https://raider.io/characters/eu/draenor/Nevodkan",
         "profile_banner": "hordebanner2",
         "mythic_plus_scores_by_season": [
@@ -9648,7 +9648,7 @@
         "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/twisting-nether/138/187177354-avatar.jpg?alt=/wow/static/images/2d/avatar/6-0.jpg",
         "region": "eu",
         "realm": "Twisting Nether",
-        "last_crawled_at": "2026-11-04T23:58:35.000Z",
+        "last_crawled_at": "2026-11-27T09:28:37.000Z",
         "profile_url": "https://raider.io/characters/eu/twisting-nether/Pepme",
         "profile_banner": "hordebanner1",
         "mythic_plus_scores_by_season": [
